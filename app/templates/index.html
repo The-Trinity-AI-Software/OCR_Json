@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OCR to JSON Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-direction: row;
+            padding: 20px;
+        }
+        .left-panel {
+            width: 30%;
+            padding: 20px;
+            background-color: #ffffff;
+            border-right: 1px solid #ccc;
+        }
+        .right-panel {
+            width: 70%;
+            padding: 20px;
+        }
+        h2 {
+            color: #004080;
+        }
+        ul {
+            line-height: 1.6;
+            padding-left: 20px;
+        }
+        .section {
+            background-color: #fff;
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+        .section label {
+            font-weight: bold;
+        }
+        .tabs {
+            margin-top: 10px;
+        }
+        .tabs button {
+            margin-right: 10px;
+            padding: 10px;
+            background-color: #eee;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+        .tabs-content {
+            margin-top: 20px;
+            background: #f0f0f0;
+            padding: 15px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>OCR to JSON Dashboard</h1>
+</header>
+
+<div class="container">
+    <div class="left-panel">
+        <h2>Use Case Overview</h2>
+        <ul>
+            <li>✅ Upload scanned or image-based documents</li>
+            <li>✅ Perform OCR (Optical Character Recognition)</li>
+            <li>✅ Visualize detected text regions</li>
+            <li>✅ Adjust OCR sensitivity (confidence threshold)</li>
+            <li>✅ View structured output: text + layout</li>
+            <li>✅ Save results as timestamped JSON files</li>
+        </ul>
+
+        <h2>Workflow</h2>
+    <ul>
+        <li>✏️ Upload .jpg, .png, or .pdf document</li>
+        <li>→ Extract text and layout with Tesseract</li>
+        <li>→ Draw bounding boxes for high-confidence text</li>
+        <li>→ Show results in preview with image</li>
+        <li>→ Optionally view and save JSON output</li>
+    </ul>
+</div>
+
+<div class="right-panel">
+    <div class="section">
+        <h2>Upload Document</h2>
+        <form method="POST" action="/ocr/convert" enctype="multipart/form-data">
+            <label>Select image or PDF file:</label><br>
+            <input type="file" name="file" accept=".jpg,.jpeg,.png,.pdf" required><br><br>
+
+            <label>Confidence Threshold (0–100):</label><br>
+            <input type="number" name="threshold" value="50" min="0" max="100"><br><br>
+
+            <label>Select output format:</label><br>
+            <select name="format">
+                <option value="full">Text + Layout</option>
+                <option value="text_only">Text Only</option>
+                <option value="layout_only">Layout Only</option>
+            </select><br><br>
+
+            <button type="submit">Upload & Preview</button>
+        </form>
+    </div>
+
+    <div class="section">
+        <h2>📷 Preview</h2>
+        {% if image_path %}
+            <img class="preview-image" src="/{{ image_path }}" alt="OCR Preview Image">
+        {% else %}
+            <p>Rendered image with bounding boxes will appear here after upload.</p>
+        {% endif %}
+
+        {% if results %}
+            <button class="json-toggle" onclick="document.getElementById('jsonBox').style.display = (document.getElementById('jsonBox').style.display === 'none' ? 'block' : 'none')">Toggle JSON View</button>
+            <div id="jsonBox" class="json-box" style="display: none;">
+                {{ results }}
+                <form method="POST" action="/ocr/save">
+                    <input type="hidden" name="json_data" value='{{ results }}'>
+                    <br>
+                    <button type="submit">Save JSON</button>
+                </form>
+            </div>
+        {% endif %}
+    </div>
+</div>
+</body>
+</html>
