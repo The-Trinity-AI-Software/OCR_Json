@@ -1,0 +1,17 @@
+## upload a file and get OCR Results
+
+curl -X POST http://localhost:8000/ocr/convert \
+  -F "file=@path_to_your_file/sample_invoice.png" \
+  -F "threshold=60" \
+  -F "format=full"
+
+
+### Save the OCR Json Result
+
+curl -X POST http://localhost:8000/ocr/save \
+  -F "json_data=@path_to_your_file/sample_output.json"
+
+
+### Get request to the home page
+
+curl http://localhost:8000/

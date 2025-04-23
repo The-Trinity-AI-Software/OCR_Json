@@ -120,7 +120,7 @@
     <div class="section">
         <h2>📷 Preview</h2>
         {% if image_path %}
-            <img class="preview-image" src="/{{ image_path }}" alt="OCR Preview Image">
+            <img class="preview-image" src="{{ image_path }}" alt="OCR Preview Image">
         {% else %}
             <p>Rendered image with bounding boxes will appear here after upload.</p>
         {% endif %}

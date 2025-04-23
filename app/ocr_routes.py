@@ -11,6 +11,10 @@ import numpy as np
 import json
 from flask import Blueprint, request, jsonify, send_file, render_template
 from datetime import datetime
+from io import BytesIO
+import base64
+from PIL import Image, ImageDraw
+from pdf2image import convert_from_path  # ✅ Required to process PDFs
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(BASE_DIR)
@@ -24,6 +28,9 @@ def home():
     return render_template("index.html")
 
 
+from io import BytesIO
+import base64
+
 @routes.route("/ocr/convert", methods=["POST"])
 def convert():
     if "file" not in request.files:
@@ -34,38 +41,57 @@ def convert():
     output_format = request.form.get("format", "full")
 
     upload_dir = os.path.join(BASE_DIR, "..", "uploads")
-    static_output_dir = os.path.join(BASE_DIR, "..", "static", "output")
     os.makedirs(upload_dir, exist_ok=True)
-    os.makedirs(static_output_dir, exist_ok=True)
 
     filepath = os.path.join(upload_dir, uploaded_file.filename)
     uploaded_file.save(filepath)
 
     try:
-        text, layout = extract_text_and_structure(filepath)
+        images = []
+        if uploaded_file.filename.lower().endswith(".pdf"):
+            images = convert_from_path(filepath)
+        else:
+            images = [Image.open(filepath).convert("RGB")]
 
-        # ✅ This is the key line
-        preview_path = save_layout_preview(filepath, layout, threshold, static_output_dir)
+        full_results = []
+        preview_images = []
 
-        results = convert_to_json(text, layout, threshold, output_format)
+        for img in images:
+            text, layout = extract_text_and_structure(img)
+
+            # Draw bounding boxes
+            draw = ImageDraw.Draw(img)
+            for i in range(len(layout["text"])):
+                if int(layout["conf"][i]) >= threshold and layout["text"][i].strip():
+                    x, y, w, h = layout["left"][i], layout["top"][i], layout["width"][i], layout["height"][i]
+                    draw.rectangle([x, y, x + w, y + h], outline="red", width=2)
+
+            # Convert to base64
+            buffer = BytesIO()
+            img.save(buffer, format="PNG")
+            buffer.seek(0)
+            encoded = base64.b64encode(buffer.read()).decode("utf-8")
+            preview_images.append(f"data:image/png;base64,{encoded}")
+
+            # Convert JSON
+            json_result = convert_to_json(text, layout, threshold, output_format)
+            full_results.append(json_result)
 
         return render_template(
             "index.html",
-            image_path=preview_path,
-            results=json.dumps(results, indent=2)
+            image_path=preview_images[0],  # just show the first page's preview
+            results=json.dumps(full_results, indent=2)
         )
 
     except Exception as e:
         return jsonify({"error": f"Processing failed: {str(e)}"}), 500
-    
-
 
 @routes.route("/ocr/save", methods=["POST"])
 def save_to_storage():
     json_data = request.form["json_data"]
-    
-    # Define save path
-    output_dir = os.path.join(BASE_DIR, "..", "output")
+
+    # ✅ Corrected output path
+    output_dir = os.path.join(BASE_DIR, "static", "output")
     os.makedirs(output_dir, exist_ok=True)
 
     # Create timestamped filename
@@ -73,7 +99,6 @@ def save_to_storage():
     filename = f"output_{timestamp}.json"
     out_path = os.path.join(output_dir, filename)
 
-    # Save the file
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(json_data)
 

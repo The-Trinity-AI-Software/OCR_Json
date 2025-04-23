@@ -1,0 +1,7300 @@
+{
+  "lines": [
+    {
+      "line": 1,
+      "text": "BANK OF AMERICA \u201c~~ GLOBAL CLIENT ACCOUNT AGREEMENT\nACCOUNT OPENING FORM\n\n1. AGREEMENT OVERVIEW\n\n1.1 Each entity listed in Appendix A (each an \"Entity\") requests that the Accounts listed against its name in Appendix A be opened\nand agrees that its relationship with the relevant Bank of America Corporation subsidiary bank (as listed in accordance with\nParagraph 1.3 below) for those Accounts and Accounts maintained and opened for each such Entity from time to time, will be\ngoverned by the following, as may be amended, varied, supplemented or substituted from time to time (together the\n\"Agreement\"):\n\n(a) this Account Opening Form and its Appendices;\n\n(b) the Global Client Account Agreement at: click here a (the \u201cLanding Page\u201d);\n\n(c) each additional document that applies to Accounts in particular Account Jurisdictions, particular additional services\nand/or particular types of Entity (each a Schedule and each as made available at the Landing Page or otherwise), as\nfollows:\n\n(i) in respect of each jurisdiction in which we maintain Accounts for an Entity whether at the outset or in the future,\nthe Jurisdiction Schedule for that jurisdiction; and/or\n\n(ii) where we agree to provide any additional services whether at the outset or in the future and/or where an Entity\nis a financial or credit institution, or provides financial or payment services or enters into the Agreement as a\nfund manager, an umbrella fund or as trustee acting on behalf of one or more funds, the Service Schedule for\nthat additional service or the Entity type Schedule (each an Additional Schedule); and\n\n(d) the Upcoming Updates at the Landing Page (it being agreed that such Upcoming Updates are pre-agreed terms of, and\nnot amendments to, the Agreement).\n\n1.2 Unless the context requires otherwise, terms not defined in this Account Opening Form will have the meaning given to them in\nthe Global Client Account Agreement (\"GCAA\"). Capitalised terms not defined in a Schedule will have the meaning given to them\nin this Account Opening Form or the GCAA (as applicable).\n\n1.3 Alist, which we may change from time to time, of the Bank of America Corporation subsidiary banks i)\n\nAccounts in each jurisdiction (the \"Account Juri:\n\nwhich open and maintain\n\nions\") can be accessed at the Landing Page.\n\n1.4 Where an Entity executes or otherwise accepts this Account Opening Form, it confirms that:\n\n(a) The Agreement \u2014 it has received (whether physically or electronically), reviewed and understood each of the documents\nforming part of the Agreement from time to time including in particular, but not limited to, the documents referred to in\nParagraph 1.1 above, and that it agrees to and accepts the terms and conditions set out in each such document.\n\n(b) Privacy Notice \u2014 it has reviewed and understood the relevant jurisdiction\u2019s Global Banking and Global Markets Data\n\nPrivacy Notice (\u201cDPN\u201d), which is accessible at click here B] (or through another web page of which we inform you from\ntime to time) (the \u201cDPN Page\u201d), and has provided or will provide a copy of or link to the relevant DPN to its associated\nindividuals as required by Clause 10.7 of the GCAA.\n\n(c) Deposit protection information \u2014 it has received (whether physically or electronically), reviewed and understood the\ninformation relating to the deposit protection regimes which are applicable in Account Jurisdictions (where relevant) as\nmade available at the Landing Page or set out in the relevant Jurisdiction Schedule.\n\n(d) No technical difficulties \u2014 it has had no technical difficulties in accessing any documents made available by hyperlink\nincluding those referred to in Paragraphs 1.1 and 1.4(b) and (c) above.\n\n(e) Opening of additional Accounts \u2014 by opening an Account in any additional Account Jurisdiction from time to time, this\nAccount Opening Form constitutes its agreement to the opening of such additional Accounts and the terms governing\nsuch Accounts.\n\n1.5 FOR INDONESIAN ACCOUNTS ONLY: Where an Entity opening an Account in Indonesia executes or otherwise accepts this\nAccount Opening Form, it confirms that it has received, reviewed and understood the Information Sheet (containing information\nregarding the Account, deposit and other related banking products and services, including benefits, risks of the products and/or\nservices, and the terms and conditions) and the Summary Document relating to the Agreement.\n\n1.6 FOR ITALIAN ACCOUNTS ONLY: Where an Entity opening an Account in Italy executes or otherwise accepts this Account Opening\nForm, it confirms that:\n\nPage Lof 8\n(00-35-5312NSBW 05-30-2024 JP Bank of America \u2014 Confidential \u00a9 2024 Bank of America Corporation"
+    }
+  ],
+  "layout": [
+    {
+      "text": "BANK",
+      "confidence": 96,
+      "position": {
+        "left": 147,
+        "top": 56,
+        "width": 86,
+        "height": 19
+      }
+    },
+    {
+      "text": "OF",
+      "confidence": 96,
+      "position": {
+        "left": 244,
+        "top": 55,
+        "width": 40,
+        "height": 21
+      }
+    },
+    {
+      "text": "AMERICA",
+      "confidence": 94,
+      "position": {
+        "left": 293,
+        "top": 55,
+        "width": 148,
+        "height": 21
+      }
+    },
+    {
+      "text": "GLOBAL",
+      "confidence": 96,
+      "position": {
+        "left": 735,
+        "top": 47,
+        "width": 96,
+        "height": 18
+      }
+    },
+    {
+      "text": "CLIENT",
+      "confidence": 96,
+      "position": {
+        "left": 839,
+        "top": 47,
+        "width": 82,
+        "height": 18
+      }
+    },
+    {
+      "text": "ACCOUNT",
+      "confidence": 96,
+      "position": {
+        "left": 928,
+        "top": 47,
+        "width": 120,
+        "height": 18
+      }
+    },
+    {
+      "text": "AGREEMENT",
+      "confidence": 96,
+      "position": {
+        "left": 1055,
+        "top": 47,
+        "width": 155,
+        "height": 18
+      }
+    },
+    {
+      "text": "ACCOUNT",
+      "confidence": 96,
+      "position": {
+        "left": 933,
+        "top": 81,
+        "width": 104,
+        "height": 16
+      }
+    },
+    {
+      "text": "OPENING",
+      "confidence": 96,
+      "position": {
+        "left": 1044,
+        "top": 81,
+        "width": 95,
+        "height": 16
+      }
+    },
+    {
+      "text": "FORM",
+      "confidence": 96,
+      "position": {
+        "left": 1148,
+        "top": 81,
+        "width": 60,
+        "height": 16
+      }
+    },
+    {
+      "text": "1.",
+      "confidence": 93,
+      "position": {
+        "left": 66,
+        "top": 138,
+        "width": 14,
+        "height": 15
+      }
+    },
+    {
+      "text": "AGREEMENT",
+      "confidence": 96,
+      "position": {
+        "left": 139,
+        "top": 140,
+        "width": 110,
+        "height": 13
+      }
+    },
+    {
+      "text": "OVERVIEW",
+      "confidence": 95,
+      "position": {
+        "left": 255,
+        "top": 140,
+        "width": 93,
+        "height": 13
+      }
+    },
+    {
+      "text": "1.1",
+      "confidence": 72,
+      "position": {
+        "left": 66,
+        "top": 177,
+        "width": 23,
+        "height": 15
+      }
+    },
+    {
+      "text": "Each",
+      "confidence": 96,
+      "position": {
+        "left": 141,
+        "top": 178,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "entity",
+      "confidence": 96,
+      "position": {
+        "left": 185,
+        "top": 178,
+        "width": 48,
+        "height": 18
+      }
+    },
+    {
+      "text": "listed",
+      "confidence": 96,
+      "position": {
+        "left": 239,
+        "top": 178,
+        "width": 44,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 290,
+        "top": 178,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Appendix",
+      "confidence": 96,
+      "position": {
+        "left": 310,
+        "top": 178,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "A",
+      "confidence": 96,
+      "position": {
+        "left": 395,
+        "top": 179,
+        "width": 12,
+        "height": 13
+      }
+    },
+    {
+      "text": "(each",
+      "confidence": 96,
+      "position": {
+        "left": 413,
+        "top": 177,
+        "width": 44,
+        "height": 19
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 92,
+      "position": {
+        "left": 464,
+        "top": 182,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "\"Entity\")",
+      "confidence": 88,
+      "position": {
+        "left": 490,
+        "top": 177,
+        "width": 72,
+        "height": 19
+      }
+    },
+    {
+      "text": "requests",
+      "confidence": 96,
+      "position": {
+        "left": 569,
+        "top": 179,
+        "width": 71,
+        "height": 17
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 96,
+      "position": {
+        "left": 646,
+        "top": 178,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 686,
+        "top": 178,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 720,
+        "top": 179,
+        "width": 76,
+        "height": 13
+      }
+    },
+    {
+      "text": "listed",
+      "confidence": 96,
+      "position": {
+        "left": 803,
+        "top": 178,
+        "width": 44,
+        "height": 14
+      }
+    },
+    {
+      "text": "against",
+      "confidence": 96,
+      "position": {
+        "left": 854,
+        "top": 178,
+        "width": 59,
+        "height": 18
+      }
+    },
+    {
+      "text": "its",
+      "confidence": 96,
+      "position": {
+        "left": 920,
+        "top": 178,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "name",
+      "confidence": 95,
+      "position": {
+        "left": 945,
+        "top": 182,
+        "width": 45,
+        "height": 10
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 998,
+        "top": 178,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "Appendix",
+      "confidence": 96,
+      "position": {
+        "left": 1017,
+        "top": 178,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "A",
+      "confidence": 96,
+      "position": {
+        "left": 1102,
+        "top": 179,
+        "width": 12,
+        "height": 13
+      }
+    },
+    {
+      "text": "be",
+      "confidence": 96,
+      "position": {
+        "left": 1120,
+        "top": 178,
+        "width": 19,
+        "height": 14
+      }
+    },
+    {
+      "text": "opened",
+      "confidence": 96,
+      "position": {
+        "left": 1146,
+        "top": 178,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 203,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "agrees",
+      "confidence": 96,
+      "position": {
+        "left": 178,
+        "top": 207,
+        "width": 53,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 96,
+      "position": {
+        "left": 239,
+        "top": 203,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "its",
+      "confidence": 96,
+      "position": {
+        "left": 281,
+        "top": 203,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "relationship",
+      "confidence": 96,
+      "position": {
+        "left": 307,
+        "top": 203,
+        "width": 99,
+        "height": 18
+      }
+    },
+    {
+      "text": "with",
+      "confidence": 96,
+      "position": {
+        "left": 414,
+        "top": 203,
+        "width": 36,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 458,
+        "top": 203,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "relevant",
+      "confidence": 96,
+      "position": {
+        "left": 493,
+        "top": 203,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "Bank",
+      "confidence": 97,
+      "position": {
+        "left": 570,
+        "top": 203,
+        "width": 40,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 97,
+      "position": {
+        "left": 617,
+        "top": 203,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "America",
+      "confidence": 96,
+      "position": {
+        "left": 640,
+        "top": 203,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "text": "Corporation",
+      "confidence": 96,
+      "position": {
+        "left": 717,
+        "top": 203,
+        "width": 100,
+        "height": 18
+      }
+    },
+    {
+      "text": "subsidiary",
+      "confidence": 96,
+      "position": {
+        "left": 825,
+        "top": 203,
+        "width": 85,
+        "height": 18
+      }
+    },
+    {
+      "text": "bank",
+      "confidence": 96,
+      "position": {
+        "left": 917,
+        "top": 203,
+        "width": 40,
+        "height": 14
+      }
+    },
+    {
+      "text": "(as",
+      "confidence": 96,
+      "position": {
+        "left": 965,
+        "top": 202,
+        "width": 22,
+        "height": 19
+      }
+    },
+    {
+      "text": "listed",
+      "confidence": 96,
+      "position": {
+        "left": 996,
+        "top": 203,
+        "width": 44,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 1048,
+        "top": 203,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "accordance",
+      "confidence": 96,
+      "position": {
+        "left": 1070,
+        "top": 203,
+        "width": 94,
+        "height": 14
+      }
+    },
+    {
+      "text": "with",
+      "confidence": 97,
+      "position": {
+        "left": 1173,
+        "top": 203,
+        "width": 35,
+        "height": 14
+      }
+    },
+    {
+      "text": "Paragraph",
+      "confidence": 96,
+      "position": {
+        "left": 141,
+        "top": 229,
+        "width": 84,
+        "height": 18
+      }
+    },
+    {
+      "text": "1.3",
+      "confidence": 96,
+      "position": {
+        "left": 233,
+        "top": 230,
+        "width": 23,
+        "height": 13
+      }
+    },
+    {
+      "text": "below)",
+      "confidence": 96,
+      "position": {
+        "left": 263,
+        "top": 228,
+        "width": 56,
+        "height": 19
+      }
+    },
+    {
+      "text": "for",
+      "confidence": 96,
+      "position": {
+        "left": 326,
+        "top": 229,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "those",
+      "confidence": 96,
+      "position": {
+        "left": 355,
+        "top": 229,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 97,
+      "position": {
+        "left": 408,
+        "top": 230,
+        "width": 76,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 492,
+        "top": 229,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 528,
+        "top": 230,
+        "width": 76,
+        "height": 13
+      }
+    },
+    {
+      "text": "maintained",
+      "confidence": 96,
+      "position": {
+        "left": 612,
+        "top": 229,
+        "width": 94,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 713,
+        "top": 229,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "opened",
+      "confidence": 96,
+      "position": {
+        "left": 750,
+        "top": 229,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "for",
+      "confidence": 96,
+      "position": {
+        "left": 819,
+        "top": 229,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 850,
+        "top": 229,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "such",
+      "confidence": 96,
+      "position": {
+        "left": 894,
+        "top": 229,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 940,
+        "top": 229,
+        "width": 46,
+        "height": 18
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 96,
+      "position": {
+        "left": 992,
+        "top": 229,
+        "width": 40,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 1038,
+        "top": 229,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1082,
+        "top": 230,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "time,",
+      "confidence": 96,
+      "position": {
+        "left": 1105,
+        "top": 229,
+        "width": 43,
+        "height": 17
+      }
+    },
+    {
+      "text": "will",
+      "confidence": 96,
+      "position": {
+        "left": 1155,
+        "top": 229,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "be",
+      "confidence": 97,
+      "position": {
+        "left": 1189,
+        "top": 229,
+        "width": 19,
+        "height": 14
+      }
+    },
+    {
+      "text": "governed",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 254,
+        "width": 78,
+        "height": 18
+      }
+    },
+    {
+      "text": "by",
+      "confidence": 96,
+      "position": {
+        "left": 229,
+        "top": 254,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 258,
+        "top": 254,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "following,",
+      "confidence": 96,
+      "position": {
+        "left": 295,
+        "top": 254,
+        "width": 82,
+        "height": 18
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 96,
+      "position": {
+        "left": 389,
+        "top": 258,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "may",
+      "confidence": 96,
+      "position": {
+        "left": 417,
+        "top": 258,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "be",
+      "confidence": 96,
+      "position": {
+        "left": 462,
+        "top": 254,
+        "width": 19,
+        "height": 14
+      }
+    },
+    {
+      "text": "amended,",
+      "confidence": 96,
+      "position": {
+        "left": 492,
+        "top": 254,
+        "width": 83,
+        "height": 17
+      }
+    },
+    {
+      "text": "varied,",
+      "confidence": 96,
+      "position": {
+        "left": 586,
+        "top": 254,
+        "width": 57,
+        "height": 17
+      }
+    },
+    {
+      "text": "supplemented",
+      "confidence": 96,
+      "position": {
+        "left": 654,
+        "top": 254,
+        "width": 120,
+        "height": 18
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 786,
+        "top": 258,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "substituted",
+      "confidence": 96,
+      "position": {
+        "left": 813,
+        "top": 254,
+        "width": 94,
+        "height": 14
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 95,
+      "position": {
+        "left": 918,
+        "top": 254,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 95,
+      "position": {
+        "left": 968,
+        "top": 254,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1016,
+        "top": 255,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 1043,
+        "top": 254,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "(together",
+      "confidence": 96,
+      "position": {
+        "left": 1092,
+        "top": 253,
+        "width": 79,
+        "height": 19
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1181,
+        "top": 254,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "(a)",
+      "confidence": 58,
+      "position": {
+        "left": 140,
+        "top": 316,
+        "width": 20,
+        "height": 19
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 85,
+      "position": {
+        "left": 197,
+        "top": 317,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 233,
+        "top": 318,
+        "width": 70,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 309,
+        "top": 317,
+        "width": 72,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form",
+      "confidence": 96,
+      "position": {
+        "left": 387,
+        "top": 318,
+        "width": 43,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 437,
+        "top": 317,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "its",
+      "confidence": 96,
+      "position": {
+        "left": 473,
+        "top": 317,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "Appendices;",
+      "confidence": 96,
+      "position": {
+        "left": 497,
+        "top": 317,
+        "width": 102,
+        "height": 18
+      }
+    },
+    {
+      "text": "(b)",
+      "confidence": 92,
+      "position": {
+        "left": 140,
+        "top": 362,
+        "width": 21,
+        "height": 19
+      }
+    },
+    {
+      "text": "Global",
+      "confidence": 96,
+      "position": {
+        "left": 231,
+        "top": 363,
+        "width": 54,
+        "height": 14
+      }
+    },
+    {
+      "text": "Client",
+      "confidence": 96,
+      "position": {
+        "left": 291,
+        "top": 363,
+        "width": 49,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 345,
+        "top": 364,
+        "width": 71,
+        "height": 13
+      }
+    },
+    {
+      "text": "Agreement",
+      "confidence": 96,
+      "position": {
+        "left": 421,
+        "top": 364,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "text": "at:",
+      "confidence": 96,
+      "position": {
+        "left": 524,
+        "top": 364,
+        "width": 20,
+        "height": 13
+      }
+    },
+    {
+      "text": "click",
+      "confidence": 95,
+      "position": {
+        "left": 551,
+        "top": 363,
+        "width": 36,
+        "height": 14
+      }
+    },
+    {
+      "text": "here",
+      "confidence": 95,
+      "position": {
+        "left": 592,
+        "top": 363,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "(the",
+      "confidence": 95,
+      "position": {
+        "left": 661,
+        "top": 362,
+        "width": 32,
+        "height": 19
+      }
+    },
+    {
+      "text": "\u201cLanding",
+      "confidence": 95,
+      "position": {
+        "left": 700,
+        "top": 363,
+        "width": 76,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page\u201d);",
+      "confidence": 95,
+      "position": {
+        "left": 781,
+        "top": 362,
+        "width": 60,
+        "height": 19
+      }
+    },
+    {
+      "text": "(c)",
+      "confidence": 93,
+      "position": {
+        "left": 140,
+        "top": 402,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 198,
+        "top": 403,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 246,
+        "top": 403,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "document",
+      "confidence": 96,
+      "position": {
+        "left": 339,
+        "top": 403,
+        "width": 84,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 96,
+      "position": {
+        "left": 432,
+        "top": 403,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "applies",
+      "confidence": 96,
+      "position": {
+        "left": 475,
+        "top": 403,
+        "width": 58,
+        "height": 18
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 542,
+        "top": 404,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 568,
+        "top": 404,
+        "width": 76,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 654,
+        "top": 403,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "particular",
+      "confidence": 96,
+      "position": {
+        "left": 678,
+        "top": 403,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 766,
+        "top": 404,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Jurisdictions,",
+      "confidence": 96,
+      "position": {
+        "left": 843,
+        "top": 403,
+        "width": 108,
+        "height": 17
+      }
+    },
+    {
+      "text": "particular",
+      "confidence": 96,
+      "position": {
+        "left": 961,
+        "top": 403,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 1050,
+        "top": 403,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "services",
+      "confidence": 96,
+      "position": {
+        "left": 1143,
+        "top": 403,
+        "width": 65,
+        "height": 14
+      }
+    },
+    {
+      "text": "and/or",
+      "confidence": 96,
+      "position": {
+        "left": 198,
+        "top": 428,
+        "width": 57,
+        "height": 18
+      }
+    },
+    {
+      "text": "particular",
+      "confidence": 96,
+      "position": {
+        "left": 263,
+        "top": 429,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "types",
+      "confidence": 96,
+      "position": {
+        "left": 350,
+        "top": 430,
+        "width": 45,
+        "height": 17
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 404,
+        "top": 429,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 97,
+      "position": {
+        "left": 429,
+        "top": 429,
+        "width": 46,
+        "height": 18
+      }
+    },
+    {
+      "text": "(each",
+      "confidence": 96,
+      "position": {
+        "left": 484,
+        "top": 428,
+        "width": 44,
+        "height": 19
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 96,
+      "position": {
+        "left": 537,
+        "top": 433,
+        "width": 8,
+        "height": 10
+      }
+    },
+    {
+      "text": "Schedule",
+      "confidence": 96,
+      "position": {
+        "left": 554,
+        "top": 429,
+        "width": 76,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 639,
+        "top": 429,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 678,
+        "top": 429,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 97,
+      "position": {
+        "left": 724,
+        "top": 433,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "made",
+      "confidence": 96,
+      "position": {
+        "left": 749,
+        "top": 429,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "available",
+      "confidence": 96,
+      "position": {
+        "left": 804,
+        "top": 429,
+        "width": 72,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 886,
+        "top": 430,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 908,
+        "top": 429,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Landing",
+      "confidence": 96,
+      "position": {
+        "left": 945,
+        "top": 429,
+        "width": 64,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page",
+      "confidence": 96,
+      "position": {
+        "left": 1018,
+        "top": 430,
+        "width": 38,
+        "height": 17
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 1065,
+        "top": 433,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "otherwise),",
+      "confidence": 96,
+      "position": {
+        "left": 1090,
+        "top": 428,
+        "width": 94,
+        "height": 19
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 87,
+      "position": {
+        "left": 1193,
+        "top": 433,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "follows:",
+      "confidence": 96,
+      "position": {
+        "left": 197,
+        "top": 454,
+        "width": 65,
+        "height": 14
+      }
+    },
+    {
+      "text": "(i)",
+      "confidence": 96,
+      "position": {
+        "left": 215,
+        "top": 491,
+        "width": 15,
+        "height": 19
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 94,
+      "position": {
+        "left": 272,
+        "top": 492,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "respect",
+      "confidence": 94,
+      "position": {
+        "left": 291,
+        "top": 493,
+        "width": 61,
+        "height": 17
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 358,
+        "top": 492,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 380,
+        "top": 488,
+        "width": 31,
+        "height": 26
+      }
+    },
+    {
+      "text": "jurisdiction",
+      "confidence": 96,
+      "position": {
+        "left": 408,
+        "top": 492,
+        "width": 108,
+        "height": 18
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 522,
+        "top": 492,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 541,
+        "top": 492,
+        "width": 48,
+        "height": 14
+      }
+    },
+    {
+      "text": "we",
+      "confidence": 97,
+      "position": {
+        "left": 595,
+        "top": 496,
+        "width": 23,
+        "height": 10
+      }
+    },
+    {
+      "text": "maintain",
+      "confidence": 96,
+      "position": {
+        "left": 624,
+        "top": 492,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 702,
+        "top": 493,
+        "width": 77,
+        "height": 13
+      }
+    },
+    {
+      "text": "for",
+      "confidence": 96,
+      "position": {
+        "left": 784,
+        "top": 492,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 813,
+        "top": 496,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 839,
+        "top": 492,
+        "width": 47,
+        "height": 18
+      }
+    },
+    {
+      "text": "whether",
+      "confidence": 96,
+      "position": {
+        "left": 892,
+        "top": 492,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 967,
+        "top": 493,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 987,
+        "top": 492,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "outset",
+      "confidence": 96,
+      "position": {
+        "left": 1020,
+        "top": 493,
+        "width": 52,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 1078,
+        "top": 496,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 1101,
+        "top": 492,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1119,
+        "top": 492,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "future,",
+      "confidence": 96,
+      "position": {
+        "left": 1152,
+        "top": 492,
+        "width": 56,
+        "height": 17
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 271,
+        "top": 518,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Jurisdiction",
+      "confidence": 96,
+      "position": {
+        "left": 304,
+        "top": 518,
+        "width": 97,
+        "height": 14
+      }
+    },
+    {
+      "text": "Schedule",
+      "confidence": 96,
+      "position": {
+        "left": 408,
+        "top": 518,
+        "width": 77,
+        "height": 14
+      }
+    },
+    {
+      "text": "for",
+      "confidence": 96,
+      "position": {
+        "left": 490,
+        "top": 518,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 94,
+      "position": {
+        "left": 519,
+        "top": 518,
+        "width": 35,
+        "height": 14
+      }
+    },
+    {
+      "text": "jurisdiction;",
+      "confidence": 94,
+      "position": {
+        "left": 559,
+        "top": 518,
+        "width": 98,
+        "height": 18
+      }
+    },
+    {
+      "text": "and/or",
+      "confidence": 96,
+      "position": {
+        "left": 664,
+        "top": 517,
+        "width": 57,
+        "height": 18
+      }
+    },
+    {
+      "text": "(ii)",
+      "confidence": 88,
+      "position": {
+        "left": 211,
+        "top": 551,
+        "width": 24,
+        "height": 27
+      }
+    },
+    {
+      "text": "where",
+      "confidence": 96,
+      "position": {
+        "left": 272,
+        "top": 556,
+        "width": 51,
+        "height": 14
+      }
+    },
+    {
+      "text": "we",
+      "confidence": 96,
+      "position": {
+        "left": 329,
+        "top": 560,
+        "width": 23,
+        "height": 10
+      }
+    },
+    {
+      "text": "agree",
+      "confidence": 96,
+      "position": {
+        "left": 359,
+        "top": 560,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 410,
+        "top": 557,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "provide",
+      "confidence": 96,
+      "position": {
+        "left": 433,
+        "top": 556,
+        "width": 62,
+        "height": 18
+      }
+    },
+    {
+      "text": "any",
+      "confidence": 96,
+      "position": {
+        "left": 502,
+        "top": 560,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 536,
+        "top": 556,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "services",
+      "confidence": 96,
+      "position": {
+        "left": 626,
+        "top": 556,
+        "width": 65,
+        "height": 14
+      }
+    },
+    {
+      "text": "whether",
+      "confidence": 96,
+      "position": {
+        "left": 697,
+        "top": 556,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 97,
+      "position": {
+        "left": 773,
+        "top": 557,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 97,
+      "position": {
+        "left": 793,
+        "top": 556,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "outset",
+      "confidence": 96,
+      "position": {
+        "left": 826,
+        "top": 557,
+        "width": 53,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 95,
+      "position": {
+        "left": 885,
+        "top": 560,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 95,
+      "position": {
+        "left": 907,
+        "top": 556,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 926,
+        "top": 556,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "future",
+      "confidence": 96,
+      "position": {
+        "left": 959,
+        "top": 556,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "and/or",
+      "confidence": 96,
+      "position": {
+        "left": 1017,
+        "top": 555,
+        "width": 57,
+        "height": 18
+      }
+    },
+    {
+      "text": "where",
+      "confidence": 96,
+      "position": {
+        "left": 1079,
+        "top": 556,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 1137,
+        "top": 560,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 1163,
+        "top": 556,
+        "width": 47,
+        "height": 18
+      }
+    },
+    {
+      "text": "is",
+      "confidence": 96,
+      "position": {
+        "left": 272,
+        "top": 581,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 94,
+      "position": {
+        "left": 291,
+        "top": 585,
+        "width": 8,
+        "height": 10
+      }
+    },
+    {
+      "text": "financial",
+      "confidence": 94,
+      "position": {
+        "left": 305,
+        "top": 581,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 383,
+        "top": 585,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "credit",
+      "confidence": 96,
+      "position": {
+        "left": 408,
+        "top": 581,
+        "width": 47,
+        "height": 14
+      }
+    },
+    {
+      "text": "institution,",
+      "confidence": 96,
+      "position": {
+        "left": 462,
+        "top": 581,
+        "width": 90,
+        "height": 17
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 561,
+        "top": 585,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "provides",
+      "confidence": 96,
+      "position": {
+        "left": 585,
+        "top": 581,
+        "width": 70,
+        "height": 18
+      }
+    },
+    {
+      "text": "financial",
+      "confidence": 96,
+      "position": {
+        "left": 662,
+        "top": 581,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 740,
+        "top": 585,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "payment",
+      "confidence": 96,
+      "position": {
+        "left": 764,
+        "top": 582,
+        "width": 73,
+        "height": 17
+      }
+    },
+    {
+      "text": "services",
+      "confidence": 97,
+      "position": {
+        "left": 845,
+        "top": 581,
+        "width": 65,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 919,
+        "top": 585,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "enters",
+      "confidence": 96,
+      "position": {
+        "left": 943,
+        "top": 582,
+        "width": 52,
+        "height": 13
+      }
+    },
+    {
+      "text": "into",
+      "confidence": 96,
+      "position": {
+        "left": 1002,
+        "top": 581,
+        "width": 32,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1041,
+        "top": 581,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Agreement",
+      "confidence": 96,
+      "position": {
+        "left": 1075,
+        "top": 582,
+        "width": 93,
+        "height": 17
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 96,
+      "position": {
+        "left": 1176,
+        "top": 585,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 96,
+      "position": {
+        "left": 1201,
+        "top": 585,
+        "width": 8,
+        "height": 10
+      }
+    },
+    {
+      "text": "fund",
+      "confidence": 96,
+      "position": {
+        "left": 271,
+        "top": 606,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "manager,",
+      "confidence": 96,
+      "position": {
+        "left": 316,
+        "top": 610,
+        "width": 78,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 402,
+        "top": 610,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "umbrella",
+      "confidence": 96,
+      "position": {
+        "left": 428,
+        "top": 606,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "fund",
+      "confidence": 96,
+      "position": {
+        "left": 508,
+        "top": 606,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 553,
+        "top": 610,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 96,
+      "position": {
+        "left": 577,
+        "top": 610,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "trustee",
+      "confidence": 96,
+      "position": {
+        "left": 599,
+        "top": 607,
+        "width": 60,
+        "height": 13
+      }
+    },
+    {
+      "text": "acting",
+      "confidence": 96,
+      "position": {
+        "left": 667,
+        "top": 606,
+        "width": 49,
+        "height": 18
+      }
+    },
+    {
+      "text": "on",
+      "confidence": 97,
+      "position": {
+        "left": 723,
+        "top": 610,
+        "width": 20,
+        "height": 10
+      }
+    },
+    {
+      "text": "behalf",
+      "confidence": 96,
+      "position": {
+        "left": 751,
+        "top": 606,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 809,
+        "top": 606,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "one",
+      "confidence": 96,
+      "position": {
+        "left": 832,
+        "top": 610,
+        "width": 30,
+        "height": 10
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 870,
+        "top": 610,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "more",
+      "confidence": 96,
+      "position": {
+        "left": 893,
+        "top": 610,
+        "width": 43,
+        "height": 10
+      }
+    },
+    {
+      "text": "funds,",
+      "confidence": 96,
+      "position": {
+        "left": 943,
+        "top": 606,
+        "width": 51,
+        "height": 17
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1001,
+        "top": 606,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "Service",
+      "confidence": 96,
+      "position": {
+        "left": 1036,
+        "top": 606,
+        "width": 60,
+        "height": 14
+      }
+    },
+    {
+      "text": "Schedule",
+      "confidence": 96,
+      "position": {
+        "left": 1103,
+        "top": 606,
+        "width": 77,
+        "height": 14
+      }
+    },
+    {
+      "text": "for",
+      "confidence": 96,
+      "position": {
+        "left": 1186,
+        "top": 606,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 95,
+      "position": {
+        "left": 271,
+        "top": 632,
+        "width": 33,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 95,
+      "position": {
+        "left": 311,
+        "top": 632,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "service",
+      "confidence": 96,
+      "position": {
+        "left": 401,
+        "top": 632,
+        "width": 57,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 465,
+        "top": 636,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 487,
+        "top": 632,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 521,
+        "top": 632,
+        "width": 50,
+        "height": 18
+      }
+    },
+    {
+      "text": "type",
+      "confidence": 96,
+      "position": {
+        "left": 575,
+        "top": 634,
+        "width": 39,
+        "height": 16
+      }
+    },
+    {
+      "text": "Schedule",
+      "confidence": 96,
+      "position": {
+        "left": 620,
+        "top": 632,
+        "width": 76,
+        "height": 14
+      }
+    },
+    {
+      "text": "(each",
+      "confidence": 96,
+      "position": {
+        "left": 703,
+        "top": 631,
+        "width": 44,
+        "height": 19
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 754,
+        "top": 636,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Additional",
+      "confidence": 96,
+      "position": {
+        "left": 779,
+        "top": 632,
+        "width": 89,
+        "height": 14
+      }
+    },
+    {
+      "text": "Schedule);",
+      "confidence": 96,
+      "position": {
+        "left": 874,
+        "top": 631,
+        "width": 88,
+        "height": 19
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 969,
+        "top": 632,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "(d)",
+      "confidence": 92,
+      "position": {
+        "left": 140,
+        "top": 669,
+        "width": 21,
+        "height": 19
+      }
+    },
+    {
+      "text": "Upcoming",
+      "confidence": 96,
+      "position": {
+        "left": 231,
+        "top": 670,
+        "width": 87,
+        "height": 18
+      }
+    },
+    {
+      "text": "Updates",
+      "confidence": 96,
+      "position": {
+        "left": 324,
+        "top": 670,
+        "width": 71,
+        "height": 18
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 402,
+        "top": 671,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 423,
+        "top": 670,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Landing",
+      "confidence": 96,
+      "position": {
+        "left": 459,
+        "top": 670,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page",
+      "confidence": 96,
+      "position": {
+        "left": 530,
+        "top": 671,
+        "width": 37,
+        "height": 17
+      }
+    },
+    {
+      "text": "(it",
+      "confidence": 96,
+      "position": {
+        "left": 575,
+        "top": 669,
+        "width": 16,
+        "height": 19
+      }
+    },
+    {
+      "text": "being",
+      "confidence": 96,
+      "position": {
+        "left": 598,
+        "top": 670,
+        "width": 45,
+        "height": 18
+      }
+    },
+    {
+      "text": "agreed",
+      "confidence": 96,
+      "position": {
+        "left": 650,
+        "top": 670,
+        "width": 57,
+        "height": 18
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 96,
+      "position": {
+        "left": 713,
+        "top": 670,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "such",
+      "confidence": 96,
+      "position": {
+        "left": 754,
+        "top": 670,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "Upcoming",
+      "confidence": 96,
+      "position": {
+        "left": 799,
+        "top": 670,
+        "width": 84,
+        "height": 18
+      }
+    },
+    {
+      "text": "Updates",
+      "confidence": 96,
+      "position": {
+        "left": 890,
+        "top": 670,
+        "width": 68,
+        "height": 18
+      }
+    },
+    {
+      "text": "are",
+      "confidence": 92,
+      "position": {
+        "left": 965,
+        "top": 674,
+        "width": 26,
+        "height": 10
+      }
+    },
+    {
+      "text": "pre-agreed",
+      "confidence": 91,
+      "position": {
+        "left": 998,
+        "top": 670,
+        "width": 92,
+        "height": 18
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 97,
+      "position": {
+        "left": 1096,
+        "top": 671,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "of,",
+      "confidence": 96,
+      "position": {
+        "left": 1152,
+        "top": 670,
+        "width": 20,
+        "height": 17
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 1180,
+        "top": 670,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "not",
+      "confidence": 96,
+      "position": {
+        "left": 198,
+        "top": 696,
+        "width": 27,
+        "height": 13
+      }
+    },
+    {
+      "text": "amendments",
+      "confidence": 96,
+      "position": {
+        "left": 231,
+        "top": 695,
+        "width": 110,
+        "height": 14
+      }
+    },
+    {
+      "text": "to,",
+      "confidence": 96,
+      "position": {
+        "left": 347,
+        "top": 696,
+        "width": 22,
+        "height": 16
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 375,
+        "top": 695,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Agreement).",
+      "confidence": 96,
+      "position": {
+        "left": 408,
+        "top": 694,
+        "width": 105,
+        "height": 19
+      }
+    },
+    {
+      "text": "1.2",
+      "confidence": 96,
+      "position": {
+        "left": 66,
+        "top": 733,
+        "width": 26,
+        "height": 15
+      }
+    },
+    {
+      "text": "Unless",
+      "confidence": 95,
+      "position": {
+        "left": 141,
+        "top": 734,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 199,
+        "top": 734,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "context",
+      "confidence": 96,
+      "position": {
+        "left": 233,
+        "top": 735,
+        "width": 62,
+        "height": 13
+      }
+    },
+    {
+      "text": "requires",
+      "confidence": 96,
+      "position": {
+        "left": 302,
+        "top": 734,
+        "width": 68,
+        "height": 18
+      }
+    },
+    {
+      "text": "otherwise,",
+      "confidence": 96,
+      "position": {
+        "left": 377,
+        "top": 734,
+        "width": 87,
+        "height": 17
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 96,
+      "position": {
+        "left": 470,
+        "top": 735,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "not",
+      "confidence": 96,
+      "position": {
+        "left": 525,
+        "top": 735,
+        "width": 27,
+        "height": 13
+      }
+    },
+    {
+      "text": "defined",
+      "confidence": 96,
+      "position": {
+        "left": 558,
+        "top": 734,
+        "width": 63,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 628,
+        "top": 734,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 96,
+      "position": {
+        "left": 647,
+        "top": 734,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 683,
+        "top": 735,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 758,
+        "top": 734,
+        "width": 69,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form",
+      "confidence": 96,
+      "position": {
+        "left": 835,
+        "top": 735,
+        "width": 40,
+        "height": 13
+      }
+    },
+    {
+      "text": "will",
+      "confidence": 96,
+      "position": {
+        "left": 883,
+        "top": 734,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "have",
+      "confidence": 96,
+      "position": {
+        "left": 917,
+        "top": 734,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 961,
+        "top": 734,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "meaning",
+      "confidence": 96,
+      "position": {
+        "left": 995,
+        "top": 734,
+        "width": 72,
+        "height": 18
+      }
+    },
+    {
+      "text": "given",
+      "confidence": 96,
+      "position": {
+        "left": 1073,
+        "top": 734,
+        "width": 43,
+        "height": 18
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1122,
+        "top": 735,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "them",
+      "confidence": 96,
+      "position": {
+        "left": 1144,
+        "top": 734,
+        "width": 43,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 94,
+      "position": {
+        "left": 1195,
+        "top": 734,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 139,
+        "top": 760,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Global",
+      "confidence": 96,
+      "position": {
+        "left": 172,
+        "top": 760,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "Client",
+      "confidence": 96,
+      "position": {
+        "left": 231,
+        "top": 760,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 282,
+        "top": 761,
+        "width": 69,
+        "height": 13
+      }
+    },
+    {
+      "text": "Agreement",
+      "confidence": 93,
+      "position": {
+        "left": 356,
+        "top": 761,
+        "width": 93,
+        "height": 17
+      }
+    },
+    {
+      "text": "(\"GCAA\").",
+      "confidence": 86,
+      "position": {
+        "left": 455,
+        "top": 759,
+        "width": 82,
+        "height": 19
+      }
+    },
+    {
+      "text": "Capitalised",
+      "confidence": 93,
+      "position": {
+        "left": 543,
+        "top": 760,
+        "width": 91,
+        "height": 18
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 96,
+      "position": {
+        "left": 639,
+        "top": 761,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "not",
+      "confidence": 96,
+      "position": {
+        "left": 693,
+        "top": 761,
+        "width": 27,
+        "height": 13
+      }
+    },
+    {
+      "text": "defined",
+      "confidence": 96,
+      "position": {
+        "left": 726,
+        "top": 760,
+        "width": 63,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 795,
+        "top": 760,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 96,
+      "position": {
+        "left": 814,
+        "top": 764,
+        "width": 8,
+        "height": 10
+      }
+    },
+    {
+      "text": "Schedule",
+      "confidence": 95,
+      "position": {
+        "left": 828,
+        "top": 760,
+        "width": 74,
+        "height": 14
+      }
+    },
+    {
+      "text": "will",
+      "confidence": 94,
+      "position": {
+        "left": 907,
+        "top": 760,
+        "width": 28,
+        "height": 14
+      }
+    },
+    {
+      "text": "have",
+      "confidence": 94,
+      "position": {
+        "left": 941,
+        "top": 760,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 95,
+      "position": {
+        "left": 985,
+        "top": 760,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "meaning",
+      "confidence": 96,
+      "position": {
+        "left": 1018,
+        "top": 760,
+        "width": 72,
+        "height": 18
+      }
+    },
+    {
+      "text": "given",
+      "confidence": 93,
+      "position": {
+        "left": 1095,
+        "top": 760,
+        "width": 44,
+        "height": 18
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 93,
+      "position": {
+        "left": 1143,
+        "top": 761,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "them",
+      "confidence": 95,
+      "position": {
+        "left": 1165,
+        "top": 760,
+        "width": 44,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 92,
+      "position": {
+        "left": 140,
+        "top": 785,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 92,
+      "position": {
+        "left": 159,
+        "top": 785,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 195,
+        "top": 786,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 270,
+        "top": 785,
+        "width": 70,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form",
+      "confidence": 96,
+      "position": {
+        "left": 347,
+        "top": 786,
+        "width": 41,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 395,
+        "top": 789,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 93,
+      "position": {
+        "left": 417,
+        "top": 785,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "GCAA",
+      "confidence": 93,
+      "position": {
+        "left": 451,
+        "top": 786,
+        "width": 47,
+        "height": 13
+      }
+    },
+    {
+      "text": "(as",
+      "confidence": 96,
+      "position": {
+        "left": 504,
+        "top": 784,
+        "width": 22,
+        "height": 19
+      }
+    },
+    {
+      "text": "applicable).",
+      "confidence": 84,
+      "position": {
+        "left": 533,
+        "top": 784,
+        "width": 96,
+        "height": 19
+      }
+    },
+    {
+      "text": "1.3",
+      "confidence": 95,
+      "position": {
+        "left": 66,
+        "top": 831,
+        "width": 26,
+        "height": 15
+      }
+    },
+    {
+      "text": "Alist,",
+      "confidence": 90,
+      "position": {
+        "left": 139,
+        "top": 832,
+        "width": 44,
+        "height": 17
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 189,
+        "top": 832,
+        "width": 49,
+        "height": 14
+      }
+    },
+    {
+      "text": "we",
+      "confidence": 96,
+      "position": {
+        "left": 243,
+        "top": 836,
+        "width": 23,
+        "height": 10
+      }
+    },
+    {
+      "text": "may",
+      "confidence": 96,
+      "position": {
+        "left": 272,
+        "top": 836,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "change",
+      "confidence": 96,
+      "position": {
+        "left": 312,
+        "top": 832,
+        "width": 58,
+        "height": 18
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 96,
+      "position": {
+        "left": 375,
+        "top": 832,
+        "width": 40,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 94,
+      "position": {
+        "left": 420,
+        "top": 832,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 94,
+      "position": {
+        "left": 462,
+        "top": 833,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "time,",
+      "confidence": 96,
+      "position": {
+        "left": 484,
+        "top": 832,
+        "width": 43,
+        "height": 17
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 533,
+        "top": 832,
+        "width": 16,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 553,
+        "top": 832,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Bank",
+      "confidence": 96,
+      "position": {
+        "left": 587,
+        "top": 832,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 97,
+      "position": {
+        "left": 631,
+        "top": 832,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "America",
+      "confidence": 97,
+      "position": {
+        "left": 651,
+        "top": 832,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "text": "Corporation",
+      "confidence": 96,
+      "position": {
+        "left": 726,
+        "top": 832,
+        "width": 100,
+        "height": 18
+      }
+    },
+    {
+      "text": "subsidiary",
+      "confidence": 96,
+      "position": {
+        "left": 832,
+        "top": 832,
+        "width": 83,
+        "height": 18
+      }
+    },
+    {
+      "text": "banks",
+      "confidence": 96,
+      "position": {
+        "left": 921,
+        "top": 832,
+        "width": 47,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 139,
+        "top": 861,
+        "width": 76,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 222,
+        "top": 860,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 243,
+        "top": 860,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "jurisdiction",
+      "confidence": 96,
+      "position": {
+        "left": 285,
+        "top": 860,
+        "width": 95,
+        "height": 18
+      }
+    },
+    {
+      "text": "(the",
+      "confidence": 96,
+      "position": {
+        "left": 387,
+        "top": 859,
+        "width": 32,
+        "height": 19
+      }
+    },
+    {
+      "text": "\"Account",
+      "confidence": 96,
+      "position": {
+        "left": 425,
+        "top": 860,
+        "width": 79,
+        "height": 14
+      }
+    },
+    {
+      "text": "Juri:",
+      "confidence": 96,
+      "position": {
+        "left": 509,
+        "top": 860,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 999,
+        "top": 832,
+        "width": 49,
+        "height": 14
+      }
+    },
+    {
+      "text": "open",
+      "confidence": 96,
+      "position": {
+        "left": 1054,
+        "top": 836,
+        "width": 41,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 1101,
+        "top": 832,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "maintain",
+      "confidence": 96,
+      "position": {
+        "left": 1136,
+        "top": 832,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "can",
+      "confidence": 96,
+      "position": {
+        "left": 636,
+        "top": 864,
+        "width": 28,
+        "height": 10
+      }
+    },
+    {
+      "text": "be",
+      "confidence": 96,
+      "position": {
+        "left": 671,
+        "top": 860,
+        "width": 19,
+        "height": 14
+      }
+    },
+    {
+      "text": "accessed",
+      "confidence": 96,
+      "position": {
+        "left": 697,
+        "top": 860,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 777,
+        "top": 861,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 798,
+        "top": 860,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Landing",
+      "confidence": 96,
+      "position": {
+        "left": 833,
+        "top": 860,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page.",
+      "confidence": 96,
+      "position": {
+        "left": 903,
+        "top": 861,
+        "width": 43,
+        "height": 17
+      }
+    },
+    {
+      "text": "1.4",
+      "confidence": 95,
+      "position": {
+        "left": 66,
+        "top": 898,
+        "width": 26,
+        "height": 15
+      }
+    },
+    {
+      "text": "Where",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 899,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 202,
+        "top": 903,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 228,
+        "top": 899,
+        "width": 47,
+        "height": 18
+      }
+    },
+    {
+      "text": "executes",
+      "confidence": 96,
+      "position": {
+        "left": 282,
+        "top": 900,
+        "width": 72,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 97,
+      "position": {
+        "left": 361,
+        "top": 903,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "otherwise",
+      "confidence": 97,
+      "position": {
+        "left": 384,
+        "top": 899,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "accepts",
+      "confidence": 97,
+      "position": {
+        "left": 473,
+        "top": 900,
+        "width": 62,
+        "height": 17
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 96,
+      "position": {
+        "left": 541,
+        "top": 899,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 577,
+        "top": 900,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 652,
+        "top": 899,
+        "width": 69,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form,",
+      "confidence": 96,
+      "position": {
+        "left": 729,
+        "top": 900,
+        "width": 46,
+        "height": 16
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 782,
+        "top": 899,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "confirms",
+      "confidence": 96,
+      "position": {
+        "left": 799,
+        "top": 899,
+        "width": 71,
+        "height": 14
+      }
+    },
+    {
+      "text": "that:",
+      "confidence": 96,
+      "position": {
+        "left": 876,
+        "top": 899,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "(a)",
+      "confidence": 85,
+      "position": {
+        "left": 140,
+        "top": 935,
+        "width": 20,
+        "height": 19
+      }
+    },
+    {
+      "text": "The",
+      "confidence": 67,
+      "position": {
+        "left": 188,
+        "top": 936,
+        "width": 32,
+        "height": 14
+      }
+    },
+    {
+      "text": "Agreement",
+      "confidence": 84,
+      "position": {
+        "left": 225,
+        "top": 937,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 343,
+        "top": 936,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 96,
+      "position": {
+        "left": 360,
+        "top": 936,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "received",
+      "confidence": 96,
+      "position": {
+        "left": 394,
+        "top": 936,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "(whether",
+      "confidence": 96,
+      "position": {
+        "left": 471,
+        "top": 935,
+        "width": 76,
+        "height": 19
+      }
+    },
+    {
+      "text": "physically",
+      "confidence": 96,
+      "position": {
+        "left": 553,
+        "top": 936,
+        "width": 81,
+        "height": 18
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 640,
+        "top": 940,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "electronically),",
+      "confidence": 96,
+      "position": {
+        "left": 663,
+        "top": 935,
+        "width": 123,
+        "height": 19
+      }
+    },
+    {
+      "text": "reviewed",
+      "confidence": 96,
+      "position": {
+        "left": 793,
+        "top": 936,
+        "width": 76,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 876,
+        "top": 936,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "understood",
+      "confidence": 96,
+      "position": {
+        "left": 913,
+        "top": 936,
+        "width": 96,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 97,
+      "position": {
+        "left": 1016,
+        "top": 936,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 1061,
+        "top": 936,
+        "width": 16,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1082,
+        "top": 936,
+        "width": 28,
+        "height": 14
+      }
+    },
+    {
+      "text": "documents",
+      "confidence": 96,
+      "position": {
+        "left": 1116,
+        "top": 936,
+        "width": 92,
+        "height": 14
+      }
+    },
+    {
+      "text": "forming",
+      "confidence": 96,
+      "position": {
+        "left": 188,
+        "top": 962,
+        "width": 66,
+        "height": 18
+      }
+    },
+    {
+      "text": "part",
+      "confidence": 97,
+      "position": {
+        "left": 260,
+        "top": 963,
+        "width": 34,
+        "height": 17
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 300,
+        "top": 962,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 322,
+        "top": 962,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Agreement",
+      "confidence": 96,
+      "position": {
+        "left": 355,
+        "top": 963,
+        "width": 94,
+        "height": 17
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 96,
+      "position": {
+        "left": 455,
+        "top": 962,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 500,
+        "top": 962,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 544,
+        "top": 963,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 567,
+        "top": 962,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "including",
+      "confidence": 95,
+      "position": {
+        "left": 611,
+        "top": 962,
+        "width": 75,
+        "height": 18
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 693,
+        "top": 962,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "particular,",
+      "confidence": 96,
+      "position": {
+        "left": 714,
+        "top": 962,
+        "width": 84,
+        "height": 18
+      }
+    },
+    {
+      "text": "but",
+      "confidence": 95,
+      "position": {
+        "left": 805,
+        "top": 962,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "not",
+      "confidence": 95,
+      "position": {
+        "left": 839,
+        "top": 963,
+        "width": 27,
+        "height": 13
+      }
+    },
+    {
+      "text": "limited",
+      "confidence": 96,
+      "position": {
+        "left": 873,
+        "top": 962,
+        "width": 57,
+        "height": 14
+      }
+    },
+    {
+      "text": "to,",
+      "confidence": 96,
+      "position": {
+        "left": 935,
+        "top": 963,
+        "width": 23,
+        "height": 16
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 964,
+        "top": 962,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "documents",
+      "confidence": 96,
+      "position": {
+        "left": 997,
+        "top": 962,
+        "width": 93,
+        "height": 14
+      }
+    },
+    {
+      "text": "referred",
+      "confidence": 96,
+      "position": {
+        "left": 1097,
+        "top": 962,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1171,
+        "top": 963,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 1195,
+        "top": 962,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Paragraph",
+      "confidence": 96,
+      "position": {
+        "left": 190,
+        "top": 987,
+        "width": 84,
+        "height": 18
+      }
+    },
+    {
+      "text": "1.1",
+      "confidence": 96,
+      "position": {
+        "left": 282,
+        "top": 988,
+        "width": 24,
+        "height": 13
+      }
+    },
+    {
+      "text": "above,",
+      "confidence": 96,
+      "position": {
+        "left": 312,
+        "top": 987,
+        "width": 55,
+        "height": 17
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 374,
+        "top": 987,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 96,
+      "position": {
+        "left": 409,
+        "top": 987,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 449,
+        "top": 987,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "agrees",
+      "confidence": 96,
+      "position": {
+        "left": 466,
+        "top": 991,
+        "width": 53,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 525,
+        "top": 988,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 549,
+        "top": 987,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "accepts",
+      "confidence": 96,
+      "position": {
+        "left": 586,
+        "top": 988,
+        "width": 61,
+        "height": 17
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 653,
+        "top": 987,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 96,
+      "position": {
+        "left": 686,
+        "top": 988,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 741,
+        "top": 987,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "conditions",
+      "confidence": 96,
+      "position": {
+        "left": 778,
+        "top": 987,
+        "width": 86,
+        "height": 14
+      }
+    },
+    {
+      "text": "set",
+      "confidence": 96,
+      "position": {
+        "left": 871,
+        "top": 988,
+        "width": 24,
+        "height": 13
+      }
+    },
+    {
+      "text": "out",
+      "confidence": 96,
+      "position": {
+        "left": 901,
+        "top": 988,
+        "width": 27,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 935,
+        "top": 987,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "each",
+      "confidence": 96,
+      "position": {
+        "left": 955,
+        "top": 987,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "such",
+      "confidence": 96,
+      "position": {
+        "left": 1000,
+        "top": 987,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "document.",
+      "confidence": 96,
+      "position": {
+        "left": 1043,
+        "top": 987,
+        "width": 90,
+        "height": 14
+      }
+    },
+    {
+      "text": "(b)",
+      "confidence": 91,
+      "position": {
+        "left": 140,
+        "top": 1024,
+        "width": 21,
+        "height": 19
+      }
+    },
+    {
+      "text": "Privacy",
+      "confidence": 76,
+      "position": {
+        "left": 189,
+        "top": 1025,
+        "width": 62,
+        "height": 18
+      }
+    },
+    {
+      "text": "Notice",
+      "confidence": 93,
+      "position": {
+        "left": 259,
+        "top": 1025,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "\u2014",
+      "confidence": 89,
+      "position": {
+        "left": 322,
+        "top": 1032,
+        "width": 11,
+        "height": 2
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 341,
+        "top": 1025,
+        "width": 9,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 96,
+      "position": {
+        "left": 360,
+        "top": 1025,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "reviewed",
+      "confidence": 96,
+      "position": {
+        "left": 396,
+        "top": 1025,
+        "width": 77,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 482,
+        "top": 1025,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "understood",
+      "confidence": 96,
+      "position": {
+        "left": 522,
+        "top": 1025,
+        "width": 96,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 97,
+      "position": {
+        "left": 627,
+        "top": 1025,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "relevant",
+      "confidence": 93,
+      "position": {
+        "left": 664,
+        "top": 1025,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "jurisdiction\u2019s",
+      "confidence": 92,
+      "position": {
+        "left": 740,
+        "top": 1025,
+        "width": 107,
+        "height": 18
+      }
+    },
+    {
+      "text": "Global",
+      "confidence": 96,
+      "position": {
+        "left": 856,
+        "top": 1025,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "Banking",
+      "confidence": 96,
+      "position": {
+        "left": 919,
+        "top": 1025,
+        "width": 65,
+        "height": 18
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 993,
+        "top": 1025,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Global",
+      "confidence": 96,
+      "position": {
+        "left": 1033,
+        "top": 1025,
+        "width": 51,
+        "height": 14
+      }
+    },
+    {
+      "text": "Markets",
+      "confidence": 96,
+      "position": {
+        "left": 1096,
+        "top": 1025,
+        "width": 66,
+        "height": 14
+      }
+    },
+    {
+      "text": "Data",
+      "confidence": 97,
+      "position": {
+        "left": 1173,
+        "top": 1026,
+        "width": 37,
+        "height": 13
+      }
+    },
+    {
+      "text": "Privacy",
+      "confidence": 97,
+      "position": {
+        "left": 190,
+        "top": 1059,
+        "width": 58,
+        "height": 18
+      }
+    },
+    {
+      "text": "Notice",
+      "confidence": 96,
+      "position": {
+        "left": 256,
+        "top": 1059,
+        "width": 52,
+        "height": 14
+      }
+    },
+    {
+      "text": "(\u201cDPN\u201d),",
+      "confidence": 90,
+      "position": {
+        "left": 316,
+        "top": 1058,
+        "width": 70,
+        "height": 19
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 394,
+        "top": 1059,
+        "width": 48,
+        "height": 14
+      }
+    },
+    {
+      "text": "is",
+      "confidence": 96,
+      "position": {
+        "left": 449,
+        "top": 1059,
+        "width": 11,
+        "height": 14
+      }
+    },
+    {
+      "text": "accessible",
+      "confidence": 96,
+      "position": {
+        "left": 467,
+        "top": 1059,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 557,
+        "top": 1060,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "click",
+      "confidence": 95,
+      "position": {
+        "left": 580,
+        "top": 1059,
+        "width": 36,
+        "height": 14
+      }
+    },
+    {
+      "text": "here",
+      "confidence": 96,
+      "position": {
+        "left": 621,
+        "top": 1059,
+        "width": 36,
+        "height": 14
+      }
+    },
+    {
+      "text": "B]",
+      "confidence": 63,
+      "position": {
+        "left": 674,
+        "top": 1049,
+        "width": 20,
+        "height": 16
+      }
+    },
+    {
+      "text": "(or",
+      "confidence": 96,
+      "position": {
+        "left": 701,
+        "top": 1058,
+        "width": 23,
+        "height": 19
+      }
+    },
+    {
+      "text": "through",
+      "confidence": 96,
+      "position": {
+        "left": 730,
+        "top": 1059,
+        "width": 66,
+        "height": 18
+      }
+    },
+    {
+      "text": "another",
+      "confidence": 96,
+      "position": {
+        "left": 804,
+        "top": 1059,
+        "width": 65,
+        "height": 14
+      }
+    },
+    {
+      "text": "web",
+      "confidence": 96,
+      "position": {
+        "left": 876,
+        "top": 1059,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "page",
+      "confidence": 95,
+      "position": {
+        "left": 917,
+        "top": 1063,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 95,
+      "position": {
+        "left": 963,
+        "top": 1059,
+        "width": 16,
+        "height": 14
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 986,
+        "top": 1059,
+        "width": 48,
+        "height": 14
+      }
+    },
+    {
+      "text": "we",
+      "confidence": 96,
+      "position": {
+        "left": 1041,
+        "top": 1063,
+        "width": 23,
+        "height": 10
+      }
+    },
+    {
+      "text": "inform",
+      "confidence": 96,
+      "position": {
+        "left": 1071,
+        "top": 1059,
+        "width": 54,
+        "height": 14
+      }
+    },
+    {
+      "text": "you",
+      "confidence": 96,
+      "position": {
+        "left": 1132,
+        "top": 1063,
+        "width": 31,
+        "height": 14
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 96,
+      "position": {
+        "left": 1169,
+        "top": 1059,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 188,
+        "top": 1086,
+        "width": 38,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 95,
+      "position": {
+        "left": 233,
+        "top": 1087,
+        "width": 16,
+        "height": 13
+      }
+    },
+    {
+      "text": "time)",
+      "confidence": 95,
+      "position": {
+        "left": 256,
+        "top": 1085,
+        "width": 44,
+        "height": 19
+      }
+    },
+    {
+      "text": "(the",
+      "confidence": 96,
+      "position": {
+        "left": 308,
+        "top": 1085,
+        "width": 33,
+        "height": 19
+      }
+    },
+    {
+      "text": "\u201cDPN",
+      "confidence": 96,
+      "position": {
+        "left": 349,
+        "top": 1086,
+        "width": 44,
+        "height": 14
+      }
+    },
+    {
+      "text": "Page\u201d),",
+      "confidence": 94,
+      "position": {
+        "left": 401,
+        "top": 1085,
+        "width": 60,
+        "height": 19
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 469,
+        "top": 1086,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 96,
+      "position": {
+        "left": 507,
+        "top": 1086,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "provided",
+      "confidence": 96,
+      "position": {
+        "left": 541,
+        "top": 1086,
+        "width": 74,
+        "height": 18
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 623,
+        "top": 1090,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "will",
+      "confidence": 96,
+      "position": {
+        "left": 647,
+        "top": 1086,
+        "width": 26,
+        "height": 14
+      }
+    },
+    {
+      "text": "provide",
+      "confidence": 96,
+      "position": {
+        "left": 681,
+        "top": 1086,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 96,
+      "position": {
+        "left": 752,
+        "top": 1090,
+        "width": 8,
+        "height": 10
+      }
+    },
+    {
+      "text": "copy",
+      "confidence": 96,
+      "position": {
+        "left": 768,
+        "top": 1090,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 814,
+        "top": 1086,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 837,
+        "top": 1090,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "link",
+      "confidence": 96,
+      "position": {
+        "left": 861,
+        "top": 1086,
+        "width": 28,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 895,
+        "top": 1087,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 919,
+        "top": 1086,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "relevant",
+      "confidence": 96,
+      "position": {
+        "left": 954,
+        "top": 1086,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "DPN",
+      "confidence": 97,
+      "position": {
+        "left": 1031,
+        "top": 1087,
+        "width": 34,
+        "height": 13
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1072,
+        "top": 1087,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "its",
+      "confidence": 96,
+      "position": {
+        "left": 1097,
+        "top": 1086,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "associated",
+      "confidence": 96,
+      "position": {
+        "left": 1122,
+        "top": 1086,
+        "width": 87,
+        "height": 14
+      }
+    },
+    {
+      "text": "individuals",
+      "confidence": 96,
+      "position": {
+        "left": 189,
+        "top": 1112,
+        "width": 89,
+        "height": 14
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 96,
+      "position": {
+        "left": 285,
+        "top": 1116,
+        "width": 15,
+        "height": 10
+      }
+    },
+    {
+      "text": "required",
+      "confidence": 96,
+      "position": {
+        "left": 307,
+        "top": 1112,
+        "width": 71,
+        "height": 18
+      }
+    },
+    {
+      "text": "by",
+      "confidence": 97,
+      "position": {
+        "left": 385,
+        "top": 1112,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "Clause",
+      "confidence": 96,
+      "position": {
+        "left": 410,
+        "top": 1112,
+        "width": 53,
+        "height": 14
+      }
+    },
+    {
+      "text": "10.7",
+      "confidence": 96,
+      "position": {
+        "left": 471,
+        "top": 1113,
+        "width": 34,
+        "height": 13
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 511,
+        "top": 1112,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 92,
+      "position": {
+        "left": 535,
+        "top": 1112,
+        "width": 24,
+        "height": 14
+      }
+    },
+    {
+      "text": "GCAA.",
+      "confidence": 90,
+      "position": {
+        "left": 566,
+        "top": 1113,
+        "width": 52,
+        "height": 13
+      }
+    },
+    {
+      "text": "(c)",
+      "confidence": 92,
+      "position": {
+        "left": 140,
+        "top": 1149,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "Deposit",
+      "confidence": 78,
+      "position": {
+        "left": 190,
+        "top": 1150,
+        "width": 65,
+        "height": 18
+      }
+    },
+    {
+      "text": "protection",
+      "confidence": 96,
+      "position": {
+        "left": 263,
+        "top": 1150,
+        "width": 89,
+        "height": 18
+      }
+    },
+    {
+      "text": "information",
+      "confidence": 93,
+      "position": {
+        "left": 361,
+        "top": 1150,
+        "width": 101,
+        "height": 14
+      }
+    },
+    {
+      "text": "\u2014",
+      "confidence": 81,
+      "position": {
+        "left": 471,
+        "top": 1157,
+        "width": 11,
+        "height": 2
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 489,
+        "top": 1150,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 96,
+      "position": {
+        "left": 508,
+        "top": 1150,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "received",
+      "confidence": 96,
+      "position": {
+        "left": 544,
+        "top": 1150,
+        "width": 70,
+        "height": 14
+      }
+    },
+    {
+      "text": "(whether",
+      "confidence": 96,
+      "position": {
+        "left": 623,
+        "top": 1149,
+        "width": 76,
+        "height": 19
+      }
+    },
+    {
+      "text": "physically",
+      "confidence": 96,
+      "position": {
+        "left": 708,
+        "top": 1150,
+        "width": 80,
+        "height": 18
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 797,
+        "top": 1154,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "electronically),",
+      "confidence": 96,
+      "position": {
+        "left": 822,
+        "top": 1149,
+        "width": 122,
+        "height": 19
+      }
+    },
+    {
+      "text": "reviewed",
+      "confidence": 96,
+      "position": {
+        "left": 953,
+        "top": 1150,
+        "width": 76,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 1038,
+        "top": 1150,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "understood",
+      "confidence": 96,
+      "position": {
+        "left": 1077,
+        "top": 1150,
+        "width": 97,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1181,
+        "top": 1150,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "information",
+      "confidence": 97,
+      "position": {
+        "left": 190,
+        "top": 1175,
+        "width": 98,
+        "height": 14
+      }
+    },
+    {
+      "text": "relating",
+      "confidence": 96,
+      "position": {
+        "left": 296,
+        "top": 1175,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 365,
+        "top": 1176,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 388,
+        "top": 1175,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "deposit",
+      "confidence": 96,
+      "position": {
+        "left": 423,
+        "top": 1175,
+        "width": 61,
+        "height": 18
+      }
+    },
+    {
+      "text": "protection",
+      "confidence": 96,
+      "position": {
+        "left": 492,
+        "top": 1175,
+        "width": 87,
+        "height": 18
+      }
+    },
+    {
+      "text": "regimes",
+      "confidence": 97,
+      "position": {
+        "left": 586,
+        "top": 1175,
+        "width": 65,
+        "height": 18
+      }
+    },
+    {
+      "text": "which",
+      "confidence": 96,
+      "position": {
+        "left": 659,
+        "top": 1175,
+        "width": 48,
+        "height": 14
+      }
+    },
+    {
+      "text": "are",
+      "confidence": 96,
+      "position": {
+        "left": 715,
+        "top": 1179,
+        "width": 25,
+        "height": 10
+      }
+    },
+    {
+      "text": "applicable",
+      "confidence": 96,
+      "position": {
+        "left": 748,
+        "top": 1175,
+        "width": 84,
+        "height": 18
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 839,
+        "top": 1175,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 860,
+        "top": 1176,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Jurisdictions",
+      "confidence": 96,
+      "position": {
+        "left": 934,
+        "top": 1175,
+        "width": 103,
+        "height": 14
+      }
+    },
+    {
+      "text": "(where",
+      "confidence": 96,
+      "position": {
+        "left": 1045,
+        "top": 1174,
+        "width": 58,
+        "height": 19
+      }
+    },
+    {
+      "text": "relevant)",
+      "confidence": 96,
+      "position": {
+        "left": 1110,
+        "top": 1174,
+        "width": 74,
+        "height": 19
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 84,
+      "position": {
+        "left": 1192,
+        "top": 1179,
+        "width": 16,
+        "height": 10
+      }
+    },
+    {
+      "text": "made",
+      "confidence": 96,
+      "position": {
+        "left": 190,
+        "top": 1201,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "available",
+      "confidence": 96,
+      "position": {
+        "left": 242,
+        "top": 1201,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "at",
+      "confidence": 96,
+      "position": {
+        "left": 322,
+        "top": 1202,
+        "width": 15,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 343,
+        "top": 1201,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Landing",
+      "confidence": 96,
+      "position": {
+        "left": 378,
+        "top": 1201,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page",
+      "confidence": 96,
+      "position": {
+        "left": 449,
+        "top": 1202,
+        "width": 37,
+        "height": 17
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 493,
+        "top": 1205,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "set",
+      "confidence": 96,
+      "position": {
+        "left": 516,
+        "top": 1202,
+        "width": 24,
+        "height": 13
+      }
+    },
+    {
+      "text": "out",
+      "confidence": 96,
+      "position": {
+        "left": 547,
+        "top": 1202,
+        "width": 26,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 580,
+        "top": 1201,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 600,
+        "top": 1201,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "relevant",
+      "confidence": 96,
+      "position": {
+        "left": 634,
+        "top": 1197,
+        "width": 61,
+        "height": 26
+      }
+    },
+    {
+      "text": "Jurisdiction",
+      "confidence": 96,
+      "position": {
+        "left": 705,
+        "top": 1197,
+        "width": 98,
+        "height": 26
+      }
+    },
+    {
+      "text": "Schedule.",
+      "confidence": 96,
+      "position": {
+        "left": 809,
+        "top": 1201,
+        "width": 80,
+        "height": 14
+      }
+    },
+    {
+      "text": "(d)",
+      "confidence": 92,
+      "position": {
+        "left": 140,
+        "top": 1237,
+        "width": 21,
+        "height": 19
+      }
+    },
+    {
+      "text": "No",
+      "confidence": 72,
+      "position": {
+        "left": 190,
+        "top": 1239,
+        "width": 24,
+        "height": 13
+      }
+    },
+    {
+      "text": "technical",
+      "confidence": 96,
+      "position": {
+        "left": 220,
+        "top": 1238,
+        "width": 77,
+        "height": 14
+      }
+    },
+    {
+      "text": "difficulties",
+      "confidence": 93,
+      "position": {
+        "left": 306,
+        "top": 1238,
+        "width": 89,
+        "height": 14
+      }
+    },
+    {
+      "text": "\u2014",
+      "confidence": 72,
+      "position": {
+        "left": 403,
+        "top": 1245,
+        "width": 11,
+        "height": 2
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 421,
+        "top": 1238,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 96,
+      "position": {
+        "left": 440,
+        "top": 1238,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "had",
+      "confidence": 94,
+      "position": {
+        "left": 476,
+        "top": 1238,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "no",
+      "confidence": 94,
+      "position": {
+        "left": 514,
+        "top": 1242,
+        "width": 20,
+        "height": 10
+      }
+    },
+    {
+      "text": "technical",
+      "confidence": 96,
+      "position": {
+        "left": 542,
+        "top": 1238,
+        "width": 74,
+        "height": 14
+      }
+    },
+    {
+      "text": "difficulties",
+      "confidence": 95,
+      "position": {
+        "left": 626,
+        "top": 1238,
+        "width": 86,
+        "height": 14
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 95,
+      "position": {
+        "left": 721,
+        "top": 1238,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "accessing",
+      "confidence": 96,
+      "position": {
+        "left": 743,
+        "top": 1238,
+        "width": 78,
+        "height": 18
+      }
+    },
+    {
+      "text": "any",
+      "confidence": 96,
+      "position": {
+        "left": 829,
+        "top": 1242,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "documents",
+      "confidence": 96,
+      "position": {
+        "left": 867,
+        "top": 1238,
+        "width": 92,
+        "height": 14
+      }
+    },
+    {
+      "text": "made",
+      "confidence": 96,
+      "position": {
+        "left": 968,
+        "top": 1238,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "available",
+      "confidence": 96,
+      "position": {
+        "left": 1023,
+        "top": 1238,
+        "width": 72,
+        "height": 14
+      }
+    },
+    {
+      "text": "by",
+      "confidence": 96,
+      "position": {
+        "left": 1104,
+        "top": 1238,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "hyperlink",
+      "confidence": 96,
+      "position": {
+        "left": 1131,
+        "top": 1238,
+        "width": 78,
+        "height": 18
+      }
+    },
+    {
+      "text": "including",
+      "confidence": 96,
+      "position": {
+        "left": 190,
+        "top": 1264,
+        "width": 75,
+        "height": 18
+      }
+    },
+    {
+      "text": "those",
+      "confidence": 96,
+      "position": {
+        "left": 270,
+        "top": 1264,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "referred",
+      "confidence": 96,
+      "position": {
+        "left": 323,
+        "top": 1264,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 91,
+      "position": {
+        "left": 397,
+        "top": 1265,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 91,
+      "position": {
+        "left": 420,
+        "top": 1264,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Paragraphs",
+      "confidence": 96,
+      "position": {
+        "left": 442,
+        "top": 1264,
+        "width": 92,
+        "height": 18
+      }
+    },
+    {
+      "text": "1.1",
+      "confidence": 95,
+      "position": {
+        "left": 542,
+        "top": 1265,
+        "width": 23,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 93,
+      "position": {
+        "left": 572,
+        "top": 1264,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "1.4(b)",
+      "confidence": 92,
+      "position": {
+        "left": 610,
+        "top": 1263,
+        "width": 46,
+        "height": 19
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 93,
+      "position": {
+        "left": 663,
+        "top": 1264,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "(c)",
+      "confidence": 92,
+      "position": {
+        "left": 699,
+        "top": 1263,
+        "width": 20,
+        "height": 19
+      }
+    },
+    {
+      "text": "above.",
+      "confidence": 96,
+      "position": {
+        "left": 726,
+        "top": 1264,
+        "width": 54,
+        "height": 14
+      }
+    },
+    {
+      "text": "(e)",
+      "confidence": 91,
+      "position": {
+        "left": 140,
+        "top": 1301,
+        "width": 20,
+        "height": 19
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 87,
+      "position": {
+        "left": 190,
+        "top": 1302,
+        "width": 72,
+        "height": 18
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 268,
+        "top": 1302,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 292,
+        "top": 1302,
+        "width": 86,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 93,
+      "position": {
+        "left": 385,
+        "top": 1303,
+        "width": 79,
+        "height": 13
+      }
+    },
+    {
+      "text": "\u2014",
+      "confidence": 87,
+      "position": {
+        "left": 470,
+        "top": 1309,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "by",
+      "confidence": 96,
+      "position": {
+        "left": 487,
+        "top": 1302,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "opening",
+      "confidence": 96,
+      "position": {
+        "left": 513,
+        "top": 1302,
+        "width": 67,
+        "height": 18
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 587,
+        "top": 1306,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 613,
+        "top": 1303,
+        "width": 69,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 690,
+        "top": 1302,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "any",
+      "confidence": 96,
+      "position": {
+        "left": 711,
+        "top": 1306,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 747,
+        "top": 1302,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 837,
+        "top": 1303,
+        "width": 69,
+        "height": 13
+      }
+    },
+    {
+      "text": "Jurisdiction",
+      "confidence": 96,
+      "position": {
+        "left": 912,
+        "top": 1302,
+        "width": 95,
+        "height": 14
+      }
+    },
+    {
+      "text": "from",
+      "confidence": 96,
+      "position": {
+        "left": 1014,
+        "top": 1302,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "time",
+      "confidence": 96,
+      "position": {
+        "left": 1061,
+        "top": 1302,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 1105,
+        "top": 1303,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "time,",
+      "confidence": 96,
+      "position": {
+        "left": 1129,
+        "top": 1302,
+        "width": 42,
+        "height": 17
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 96,
+      "position": {
+        "left": 1178,
+        "top": 1302,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 189,
+        "top": 1328,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 265,
+        "top": 1327,
+        "width": 70,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form",
+      "confidence": 96,
+      "position": {
+        "left": 344,
+        "top": 1328,
+        "width": 41,
+        "height": 13
+      }
+    },
+    {
+      "text": "constitutes",
+      "confidence": 96,
+      "position": {
+        "left": 394,
+        "top": 1327,
+        "width": 92,
+        "height": 14
+      }
+    },
+    {
+      "text": "its",
+      "confidence": 96,
+      "position": {
+        "left": 494,
+        "top": 1327,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "agreement",
+      "confidence": 96,
+      "position": {
+        "left": 521,
+        "top": 1328,
+        "width": 90,
+        "height": 17
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 618,
+        "top": 1328,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 97,
+      "position": {
+        "left": 643,
+        "top": 1327,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "opening",
+      "confidence": 96,
+      "position": {
+        "left": 678,
+        "top": 1327,
+        "width": 67,
+        "height": 18
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 753,
+        "top": 1327,
+        "width": 17,
+        "height": 14
+      }
+    },
+    {
+      "text": "such",
+      "confidence": 97,
+      "position": {
+        "left": 777,
+        "top": 1327,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "additional",
+      "confidence": 96,
+      "position": {
+        "left": 822,
+        "top": 1327,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts",
+      "confidence": 96,
+      "position": {
+        "left": 912,
+        "top": 1328,
+        "width": 77,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 998,
+        "top": 1327,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1035,
+        "top": 1327,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 96,
+      "position": {
+        "left": 1069,
+        "top": 1328,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "governing",
+      "confidence": 96,
+      "position": {
+        "left": 1126,
+        "top": 1327,
+        "width": 82,
+        "height": 18
+      }
+    },
+    {
+      "text": "such",
+      "confidence": 95,
+      "position": {
+        "left": 190,
+        "top": 1353,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accounts.",
+      "confidence": 96,
+      "position": {
+        "left": 232,
+        "top": 1354,
+        "width": 82,
+        "height": 13
+      }
+    },
+    {
+      "text": "1.5",
+      "confidence": 94,
+      "position": {
+        "left": 66,
+        "top": 1391,
+        "width": 26,
+        "height": 15
+      }
+    },
+    {
+      "text": "FOR",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 1393,
+        "width": 34,
+        "height": 13
+      }
+    },
+    {
+      "text": "INDONESIAN",
+      "confidence": 95,
+      "position": {
+        "left": 182,
+        "top": 1393,
+        "width": 111,
+        "height": 13
+      }
+    },
+    {
+      "text": "ACCOUNTS",
+      "confidence": 96,
+      "position": {
+        "left": 300,
+        "top": 1393,
+        "width": 96,
+        "height": 13
+      }
+    },
+    {
+      "text": "ONLY:",
+      "confidence": 96,
+      "position": {
+        "left": 404,
+        "top": 1393,
+        "width": 51,
+        "height": 13
+      }
+    },
+    {
+      "text": "Where",
+      "confidence": 96,
+      "position": {
+        "left": 465,
+        "top": 1392,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 95,
+      "position": {
+        "left": 530,
+        "top": 1396,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 559,
+        "top": 1392,
+        "width": 47,
+        "height": 18
+      }
+    },
+    {
+      "text": "opening",
+      "confidence": 96,
+      "position": {
+        "left": 615,
+        "top": 1392,
+        "width": 66,
+        "height": 18
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 95,
+      "position": {
+        "left": 691,
+        "top": 1396,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 718,
+        "top": 1393,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 96,
+      "position": {
+        "left": 796,
+        "top": 1392,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Indonesia",
+      "confidence": 96,
+      "position": {
+        "left": 820,
+        "top": 1392,
+        "width": 79,
+        "height": 14
+      }
+    },
+    {
+      "text": "executes",
+      "confidence": 96,
+      "position": {
+        "left": 909,
+        "top": 1393,
+        "width": 72,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 97,
+      "position": {
+        "left": 991,
+        "top": 1396,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "otherwise",
+      "confidence": 96,
+      "position": {
+        "left": 1016,
+        "top": 1392,
+        "width": 83,
+        "height": 14
+      }
+    },
+    {
+      "text": "accepts",
+      "confidence": 96,
+      "position": {
+        "left": 1108,
+        "top": 1393,
+        "width": 62,
+        "height": 17
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 96,
+      "position": {
+        "left": 1179,
+        "top": 1392,
+        "width": 29,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 139,
+        "top": 1418,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 213,
+        "top": 1417,
+        "width": 70,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form,",
+      "confidence": 96,
+      "position": {
+        "left": 289,
+        "top": 1418,
+        "width": 46,
+        "height": 16
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 341,
+        "top": 1417,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "confirms",
+      "confidence": 96,
+      "position": {
+        "left": 357,
+        "top": 1417,
+        "width": 72,
+        "height": 14
+      }
+    },
+    {
+      "text": "that",
+      "confidence": 95,
+      "position": {
+        "left": 434,
+        "top": 1417,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 95,
+      "position": {
+        "left": 473,
+        "top": 1417,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "has",
+      "confidence": 95,
+      "position": {
+        "left": 489,
+        "top": 1417,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "received,",
+      "confidence": 96,
+      "position": {
+        "left": 522,
+        "top": 1417,
+        "width": 75,
+        "height": 17
+      }
+    },
+    {
+      "text": "reviewed",
+      "confidence": 96,
+      "position": {
+        "left": 603,
+        "top": 1417,
+        "width": 76,
+        "height": 14
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 684,
+        "top": 1417,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "understood",
+      "confidence": 96,
+      "position": {
+        "left": 720,
+        "top": 1417,
+        "width": 97,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 821,
+        "top": 1417,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Information",
+      "confidence": 96,
+      "position": {
+        "left": 855,
+        "top": 1417,
+        "width": 98,
+        "height": 14
+      }
+    },
+    {
+      "text": "Sheet",
+      "confidence": 96,
+      "position": {
+        "left": 959,
+        "top": 1417,
+        "width": 46,
+        "height": 14
+      }
+    },
+    {
+      "text": "(containing",
+      "confidence": 96,
+      "position": {
+        "left": 1011,
+        "top": 1416,
+        "width": 93,
+        "height": 19
+      }
+    },
+    {
+      "text": "information",
+      "confidence": 96,
+      "position": {
+        "left": 1109,
+        "top": 1417,
+        "width": 99,
+        "height": 14
+      }
+    },
+    {
+      "text": "regarding",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 1443,
+        "width": 79,
+        "height": 18
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 224,
+        "top": 1443,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account,",
+      "confidence": 96,
+      "position": {
+        "left": 256,
+        "top": 1444,
+        "width": 74,
+        "height": 16
+      }
+    },
+    {
+      "text": "deposit",
+      "confidence": 96,
+      "position": {
+        "left": 336,
+        "top": 1443,
+        "width": 62,
+        "height": 18
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 404,
+        "top": 1443,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "other",
+      "confidence": 97,
+      "position": {
+        "left": 440,
+        "top": 1443,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "related",
+      "confidence": 96,
+      "position": {
+        "left": 491,
+        "top": 1443,
+        "width": 58,
+        "height": 14
+      }
+    },
+    {
+      "text": "banking",
+      "confidence": 96,
+      "position": {
+        "left": 555,
+        "top": 1443,
+        "width": 66,
+        "height": 18
+      }
+    },
+    {
+      "text": "products",
+      "confidence": 96,
+      "position": {
+        "left": 627,
+        "top": 1443,
+        "width": 73,
+        "height": 18
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 706,
+        "top": 1443,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "services,",
+      "confidence": 96,
+      "position": {
+        "left": 742,
+        "top": 1443,
+        "width": 70,
+        "height": 17
+      }
+    },
+    {
+      "text": "including",
+      "confidence": 96,
+      "position": {
+        "left": 819,
+        "top": 1443,
+        "width": 75,
+        "height": 18
+      }
+    },
+    {
+      "text": "benefits,",
+      "confidence": 94,
+      "position": {
+        "left": 900,
+        "top": 1443,
+        "width": 71,
+        "height": 17
+      }
+    },
+    {
+      "text": "risks",
+      "confidence": 96,
+      "position": {
+        "left": 978,
+        "top": 1443,
+        "width": 35,
+        "height": 14
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 97,
+      "position": {
+        "left": 1022,
+        "top": 1443,
+        "width": 15,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 1045,
+        "top": 1443,
+        "width": 22,
+        "height": 14
+      }
+    },
+    {
+      "text": "products",
+      "confidence": 96,
+      "position": {
+        "left": 1074,
+        "top": 1443,
+        "width": 73,
+        "height": 18
+      }
+    },
+    {
+      "text": "and/or",
+      "confidence": 96,
+      "position": {
+        "left": 1153,
+        "top": 1442,
+        "width": 57,
+        "height": 18
+      }
+    },
+    {
+      "text": "services,",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 1468,
+        "width": 70,
+        "height": 17
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 217,
+        "top": 1468,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 253,
+        "top": 1468,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "terms",
+      "confidence": 96,
+      "position": {
+        "left": 286,
+        "top": 1469,
+        "width": 48,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 341,
+        "top": 1468,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "conditions)",
+      "confidence": 96,
+      "position": {
+        "left": 377,
+        "top": 1467,
+        "width": 92,
+        "height": 19
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96,
+      "position": {
+        "left": 476,
+        "top": 1468,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 512,
+        "top": 1468,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Summary",
+      "confidence": 96,
+      "position": {
+        "left": 546,
+        "top": 1469,
+        "width": 79,
+        "height": 17
+      }
+    },
+    {
+      "text": "Document",
+      "confidence": 96,
+      "position": {
+        "left": 632,
+        "top": 1469,
+        "width": 85,
+        "height": 13
+      }
+    },
+    {
+      "text": "relating",
+      "confidence": 96,
+      "position": {
+        "left": 724,
+        "top": 1468,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 96,
+      "position": {
+        "left": 792,
+        "top": 1469,
+        "width": 17,
+        "height": 13
+      }
+    },
+    {
+      "text": "the",
+      "confidence": 96,
+      "position": {
+        "left": 815,
+        "top": 1468,
+        "width": 27,
+        "height": 14
+      }
+    },
+    {
+      "text": "Agreement.",
+      "confidence": 96,
+      "position": {
+        "left": 848,
+        "top": 1469,
+        "width": 99,
+        "height": 17
+      }
+    },
+    {
+      "text": "1.6",
+      "confidence": 96,
+      "position": {
+        "left": 66,
+        "top": 1506,
+        "width": 26,
+        "height": 15
+      }
+    },
+    {
+      "text": "FOR",
+      "confidence": 96,
+      "position": {
+        "left": 140,
+        "top": 1508,
+        "width": 34,
+        "height": 13
+      }
+    },
+    {
+      "text": "ITALIAN",
+      "confidence": 95,
+      "position": {
+        "left": 179,
+        "top": 1503,
+        "width": 66,
+        "height": 26
+      }
+    },
+    {
+      "text": "ACCOUNTS",
+      "confidence": 95,
+      "position": {
+        "left": 255,
+        "top": 1503,
+        "width": 83,
+        "height": 26
+      }
+    },
+    {
+      "text": "ONLY:",
+      "confidence": 96,
+      "position": {
+        "left": 350,
+        "top": 1508,
+        "width": 52,
+        "height": 13
+      }
+    },
+    {
+      "text": "Where",
+      "confidence": 96,
+      "position": {
+        "left": 407,
+        "top": 1507,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 468,
+        "top": 1511,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 96,
+      "position": {
+        "left": 494,
+        "top": 1507,
+        "width": 47,
+        "height": 18
+      }
+    },
+    {
+      "text": "opening",
+      "confidence": 96,
+      "position": {
+        "left": 546,
+        "top": 1507,
+        "width": 67,
+        "height": 18
+      }
+    },
+    {
+      "text": "an",
+      "confidence": 96,
+      "position": {
+        "left": 618,
+        "top": 1511,
+        "width": 19,
+        "height": 10
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 95,
+      "position": {
+        "left": 642,
+        "top": 1508,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 94,
+      "position": {
+        "left": 716,
+        "top": 1507,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "Italy",
+      "confidence": 94,
+      "position": {
+        "left": 736,
+        "top": 1507,
+        "width": 34,
+        "height": 18
+      }
+    },
+    {
+      "text": "executes",
+      "confidence": 96,
+      "position": {
+        "left": 775,
+        "top": 1508,
+        "width": 73,
+        "height": 13
+      }
+    },
+    {
+      "text": "or",
+      "confidence": 96,
+      "position": {
+        "left": 854,
+        "top": 1511,
+        "width": 17,
+        "height": 10
+      }
+    },
+    {
+      "text": "otherwise",
+      "confidence": 96,
+      "position": {
+        "left": 876,
+        "top": 1507,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "accepts",
+      "confidence": 96,
+      "position": {
+        "left": 964,
+        "top": 1508,
+        "width": 62,
+        "height": 17
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 97,
+      "position": {
+        "left": 1031,
+        "top": 1507,
+        "width": 30,
+        "height": 14
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 1066,
+        "top": 1508,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "Opening",
+      "confidence": 96,
+      "position": {
+        "left": 1140,
+        "top": 1507,
+        "width": 69,
+        "height": 18
+      }
+    },
+    {
+      "text": "Form,",
+      "confidence": 95,
+      "position": {
+        "left": 141,
+        "top": 1533,
+        "width": 46,
+        "height": 16
+      }
+    },
+    {
+      "text": "it",
+      "confidence": 96,
+      "position": {
+        "left": 194,
+        "top": 1532,
+        "width": 10,
+        "height": 14
+      }
+    },
+    {
+      "text": "confirms",
+      "confidence": 96,
+      "position": {
+        "left": 210,
+        "top": 1532,
+        "width": 72,
+        "height": 14
+      }
+    },
+    {
+      "text": "that:",
+      "confidence": 96,
+      "position": {
+        "left": 288,
+        "top": 1532,
+        "width": 39,
+        "height": 14
+      }
+    },
+    {
+      "text": "Page",
+      "confidence": 92,
+      "position": {
+        "left": 606,
+        "top": 1562,
+        "width": 27,
+        "height": 12
+      }
+    },
+    {
+      "text": "Lof",
+      "confidence": 78,
+      "position": {
+        "left": 638,
+        "top": 1561,
+        "width": 22,
+        "height": 10
+      }
+    },
+    {
+      "text": "8",
+      "confidence": 78,
+      "position": {
+        "left": 663,
+        "top": 1562,
+        "width": 7,
+        "height": 9
+      }
+    },
+    {
+      "text": "05-30-2024",
+      "confidence": 88,
+      "position": {
+        "left": 172,
+        "top": 1569,
+        "width": 66,
+        "height": 30
+      }
+    },
+    {
+      "text": "JP",
+      "confidence": 88,
+      "position": {
+        "left": 243,
+        "top": 1580,
+        "width": 12,
+        "height": 9
+      }
+    },
+    {
+      "text": "Bank",
+      "confidence": 96,
+      "position": {
+        "left": 545,
+        "top": 1569,
+        "width": 26,
+        "height": 30
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 578,
+        "top": 1579,
+        "width": 12,
+        "height": 10
+      }
+    },
+    {
+      "text": "Confidential",
+      "confidence": 94,
+      "position": {
+        "left": 658,
+        "top": 1579,
+        "width": 72,
+        "height": 10
+      }
+    },
+    {
+      "text": "\u00a9",
+      "confidence": 81,
+      "position": {
+        "left": 992,
+        "top": 1579,
+        "width": 10,
+        "height": 10
+      }
+    },
+    {
+      "text": "2024",
+      "confidence": 77,
+      "position": {
+        "left": 1008,
+        "top": 1580,
+        "width": 28,
+        "height": 9
+      }
+    },
+    {
+      "text": "Bank",
+      "confidence": 77,
+      "position": {
+        "left": 1040,
+        "top": 1579,
+        "width": 28,
+        "height": 10
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 1073,
+        "top": 1579,
+        "width": 12,
+        "height": 10
+      }
+    },
+    {
+      "text": "America",
+      "confidence": 96,
+      "position": {
+        "left": 1087,
+        "top": 1579,
+        "width": 48,
+        "height": 10
+      }
+    },
+    {
+      "text": "Corporation",
+      "confidence": 96,
+      "position": {
+        "left": 1141,
+        "top": 1580,
+        "width": 69,
+        "height": 12
+      }
+    }
+  ]
+}

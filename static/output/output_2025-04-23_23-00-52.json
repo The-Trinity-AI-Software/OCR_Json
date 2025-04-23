@@ -1,0 +1,360 @@
+{
+  "lines": [
+    {
+      "line": 1,
+      "text": "Select Execution Type\n\n\u00a5 Single Entity\n[~ Multiple Entities With Same Signer(s)\n\n[~ Multiple Entities With Different Signers\n\nSelect Account Location (if applicable)\n\n[~ Account(s) maintained in Italy\n[> Account(s) maintained in Spain\n\n[~ Account(s) maintained in The Philippines\n\nPage 5 of 8\n(00-35-5312NSBW 05-30-2024 JP Bank of America \u2014 Confidential \u00a9 2024 Bank of America Corporation"
+    }
+  ],
+  "layout": [
+    {
+      "text": "Select",
+      "confidence": 96,
+      "position": {
+        "left": 66,
+        "top": 75,
+        "width": 55,
+        "height": 16
+      }
+    },
+    {
+      "text": "Execution",
+      "confidence": 96,
+      "position": {
+        "left": 128,
+        "top": 76,
+        "width": 91,
+        "height": 15
+      }
+    },
+    {
+      "text": "Type",
+      "confidence": 96,
+      "position": {
+        "left": 225,
+        "top": 76,
+        "width": 46,
+        "height": 19
+      }
+    },
+    {
+      "text": "Single",
+      "confidence": 95,
+      "position": {
+        "left": 253,
+        "top": 139,
+        "width": 52,
+        "height": 18
+      }
+    },
+    {
+      "text": "Entity",
+      "confidence": 95,
+      "position": {
+        "left": 311,
+        "top": 140,
+        "width": 47,
+        "height": 17
+      }
+    },
+    {
+      "text": "Multiple",
+      "confidence": 94,
+      "position": {
+        "left": 251,
+        "top": 181,
+        "width": 73,
+        "height": 29
+      }
+    },
+    {
+      "text": "Entities",
+      "confidence": 94,
+      "position": {
+        "left": 333,
+        "top": 181,
+        "width": 66,
+        "height": 29
+      }
+    },
+    {
+      "text": "With",
+      "confidence": 96,
+      "position": {
+        "left": 401,
+        "top": 188,
+        "width": 41,
+        "height": 14
+      }
+    },
+    {
+      "text": "Same",
+      "confidence": 93,
+      "position": {
+        "left": 451,
+        "top": 181,
+        "width": 35,
+        "height": 29
+      }
+    },
+    {
+      "text": "Signer(s)",
+      "confidence": 92,
+      "position": {
+        "left": 498,
+        "top": 181,
+        "width": 74,
+        "height": 29
+      }
+    },
+    {
+      "text": "Multiple",
+      "confidence": 96,
+      "position": {
+        "left": 254,
+        "top": 237,
+        "width": 73,
+        "height": 18
+      }
+    },
+    {
+      "text": "Entities",
+      "confidence": 96,
+      "position": {
+        "left": 332,
+        "top": 238,
+        "width": 61,
+        "height": 13
+      }
+    },
+    {
+      "text": "Different",
+      "confidence": 93,
+      "position": {
+        "left": 449,
+        "top": 237,
+        "width": 74,
+        "height": 14
+      }
+    },
+    {
+      "text": "Signers",
+      "confidence": 93,
+      "position": {
+        "left": 528,
+        "top": 238,
+        "width": 60,
+        "height": 17
+      }
+    },
+    {
+      "text": "Select",
+      "confidence": 96,
+      "position": {
+        "left": 66,
+        "top": 318,
+        "width": 55,
+        "height": 16
+      }
+    },
+    {
+      "text": "Account",
+      "confidence": 96,
+      "position": {
+        "left": 127,
+        "top": 319,
+        "width": 77,
+        "height": 15
+      }
+    },
+    {
+      "text": "Location",
+      "confidence": 96,
+      "position": {
+        "left": 211,
+        "top": 319,
+        "width": 79,
+        "height": 15
+      }
+    },
+    {
+      "text": "(if",
+      "confidence": 96,
+      "position": {
+        "left": 297,
+        "top": 318,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "text": "applicable)",
+      "confidence": 96,
+      "position": {
+        "left": 323,
+        "top": 318,
+        "width": 102,
+        "height": 20
+      }
+    },
+    {
+      "text": "Account(s)",
+      "confidence": 91,
+      "position": {
+        "left": 252,
+        "top": 384,
+        "width": 90,
+        "height": 19
+      }
+    },
+    {
+      "text": "maintained",
+      "confidence": 94,
+      "position": {
+        "left": 349,
+        "top": 384,
+        "width": 164,
+        "height": 19
+      }
+    },
+    {
+      "text": "maintained",
+      "confidence": 96,
+      "position": {
+        "left": 350,
+        "top": 426,
+        "width": 172,
+        "height": 18
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 95,
+      "position": {
+        "left": 452,
+        "top": 419,
+        "width": 18,
+        "height": 30
+      }
+    },
+    {
+      "text": "Spain",
+      "confidence": 95,
+      "position": {
+        "left": 477,
+        "top": 426,
+        "width": 45,
+        "height": 18
+      }
+    },
+    {
+      "text": "in",
+      "confidence": 95,
+      "position": {
+        "left": 451,
+        "top": 468,
+        "width": 16,
+        "height": 13
+      }
+    },
+    {
+      "text": "The",
+      "confidence": 96,
+      "position": {
+        "left": 472,
+        "top": 467,
+        "width": 31,
+        "height": 14
+      }
+    },
+    {
+      "text": "Philippines",
+      "confidence": 96,
+      "position": {
+        "left": 508,
+        "top": 467,
+        "width": 96,
+        "height": 18
+      }
+    },
+    {
+      "text": "Page",
+      "confidence": 96,
+      "position": {
+        "left": 606,
+        "top": 1562,
+        "width": 27,
+        "height": 12
+      }
+    },
+    {
+      "text": "8",
+      "confidence": 93,
+      "position": {
+        "left": 663,
+        "top": 1562,
+        "width": 7,
+        "height": 9
+      }
+    },
+    {
+      "text": "Bank",
+      "confidence": 96,
+      "position": {
+        "left": 545,
+        "top": 1569,
+        "width": 26,
+        "height": 30
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 578,
+        "top": 1579,
+        "width": 12,
+        "height": 10
+      }
+    },
+    {
+      "text": "Confidential",
+      "confidence": 95,
+      "position": {
+        "left": 658,
+        "top": 1579,
+        "width": 72,
+        "height": 10
+      }
+    },
+    {
+      "text": "of",
+      "confidence": 96,
+      "position": {
+        "left": 1073,
+        "top": 1579,
+        "width": 12,
+        "height": 10
+      }
+    },
+    {
+      "text": "America",
+      "confidence": 96,
+      "position": {
+        "left": 1087,
+        "top": 1579,
+        "width": 48,
+        "height": 10
+      }
+    },
+    {
+      "text": "Corporation",
+      "confidence": 96,
+      "position": {
+        "left": 1141,
+        "top": 1579,
+        "width": 69,
+        "height": 13
+      }
+    }
+  ]
+}

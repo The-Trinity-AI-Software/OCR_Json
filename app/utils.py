@@ -11,9 +11,16 @@ import pytesseract
 from PIL import Image, ImageDraw
 import os
 from datetime import datetime
+from pdf2image import convert_from_path
 
-def extract_text_and_structure(image_path):
-    image = Image.open(image_path)
+def extract_text_and_structure(image_input):
+    from PIL import Image
+
+    if isinstance(image_input, str):  # If it's a file path
+        image = Image.open(image_input)
+    else:  # It's already a PIL.Image object
+        image = image_input
+
     text = pytesseract.image_to_string(image)
     layout = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
     return text, layout
@@ -60,3 +67,30 @@ def save_layout_preview(image_path, layout, threshold, output_dir):
 
     # Return path relative to /static so browser can view it
     return f"static/output/{filename}"
+
+def process_pdf(filepath, threshold):
+    images = convert_from_path(filepath)
+    results = []
+
+    for idx, image in enumerate(images):
+        text = pytesseract.image_to_string(image)
+        layout = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
+        result = {
+            "page": idx + 1,
+            "text": text,
+            "layout": []
+        }
+        for i in range(len(layout["text"])):
+            if int(layout["conf"][i]) >= threshold and layout["text"][i].strip():
+                result["layout"].append({
+                    "text": layout["text"][i],
+                    "conf": layout["conf"][i],
+                    "position": {
+                        "left": layout["left"][i],
+                        "top": layout["top"][i],
+                        "width": layout["width"][i],
+                        "height": layout["height"][i],
+                    }
+                })
+        results.append(result)
+    return results
